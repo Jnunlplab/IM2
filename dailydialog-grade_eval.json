@@ -1,0 +1,5992 @@
+[
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                5,
+                2,
+                4,
+                5,
+                3,
+                3,
+                5,
+                1
+            ]
+        },
+        "context": "yes , that's my only day off until Thursday .\nok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?",
+        "dialogue_id": "dailydialog-grade-000",
+        "model_name": "transformer_generator",
+        "response": "ok . I ' ll be there in the afternoon ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                5,
+                5,
+                4,
+                5,
+                4,
+                2,
+                3,
+                1
+            ]
+        },
+        "context": "Hello , 332440 .\nOh hello , Sally . This is Dave Thomson here . Could I speak to Jim please ?",
+        "dialogue_id": "dailydialog-grade-001",
+        "model_name": "transformer_generator",
+        "response": "This is Jim , please ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                4,
+                5,
+                5,
+                4,
+                2,
+                5,
+                3,
+                3,
+                1
+            ]
+        },
+        "context": "If only our company prescribe flex time .\nThe board has been considering introducing flex time .",
+        "dialogue_id": "dailydialog-grade-002",
+        "model_name": "transformer_generator",
+        "response": "But it ' s not a very high - worker , but it ' s not a very high - time job ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                5,
+                2,
+                4,
+                5,
+                4,
+                4,
+                3,
+                1
+            ]
+        },
+        "context": "Thank you so much . Does he read his e-mails daily ?\nYes . He usually replies immediately .",
+        "dialogue_id": "dailydialog-grade-003",
+        "model_name": "transformer_generator",
+        "response": "Oh , he ' s a man of the first person . He ' s a successful successful successful man ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                5,
+                4,
+                4,
+                5,
+                5,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "I'll take a little milk , but no sugar , please . Make sure you let the tea steep a few minutes before you take the tea bag out of the cup .\nOk . What do you think about our living room ?",
+        "dialogue_id": "dailydialog-grade-004",
+        "model_name": "transformer_generator",
+        "response": "It ' s a very good idea ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                3,
+                2,
+                1,
+                3,
+                5,
+                5,
+                1
+            ]
+        },
+        "context": "I want to take a look at that home with the Open House flags out front .\nWhat a wonderful neighborhood ! Can you find that house on our Open House list ?",
+        "dialogue_id": "dailydialog-grade-005",
+        "model_name": "transformer_generator",
+        "response": "I am sorry I can ' t go there ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                4,
+                4,
+                4,
+                3,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "Take it easy . We are going to have our own baby . You should be happy .\nYeah , I know .",
+        "dialogue_id": "dailydialog-grade-006",
+        "model_name": "transformer_generator",
+        "response": "Well , you know ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                2,
+                2,
+                1,
+                1,
+                4,
+                2,
+                1
+            ]
+        },
+        "context": "Wow ! Your calligraphy is very beautiful . It was worth the wait !\nThank you . Today I'm writing a kind of poem called a Chinese couplet .",
+        "dialogue_id": "dailydialog-grade-007",
+        "model_name": "transformer_generator",
+        "response": "It ' s so bad ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                3,
+                3,
+                1,
+                1,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "Anything wrong with it ?\nYes . When I spread it out back home , I found this hole .",
+        "dialogue_id": "dailydialog-grade-008",
+        "model_name": "transformer_generator",
+        "response": "How do you think it is ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                4,
+                3,
+                1,
+                2,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "The service did not help the situation .\nIs this a restaurant that you want to come back to ?",
+        "dialogue_id": "dailydialog-grade-009",
+        "model_name": "transformer_generator",
+        "response": "I am afraid I can ' t make it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                2,
+                1,
+                5,
+                2,
+                3,
+                5,
+                2
+            ]
+        },
+        "context": "Well , there will be charity performance on Saturday night . And also , there will be a solo concert by an opera star on Sunday night .\nIt's a good thing that I have choices here . Can you tell me about the one on Saturday ?",
+        "dialogue_id": "dailydialog-grade-010",
+        "model_name": "transformer_generator",
+        "response": "Sure , let ' s go to the concert with a night ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                2,
+                1,
+                5,
+                3,
+                3,
+                3,
+                4
+            ]
+        },
+        "context": "What do you think about the equipment in our company ?\nWe have to equip our company with a network of work stations at every office and show room as soon as possible .",
+        "dialogue_id": "dailydialog-grade-011",
+        "model_name": "transformer_generator",
+        "response": "We have a lot of work , but we have to work overtime . We need to work with a company ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                1,
+                2,
+                1,
+                5,
+                3,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "I shouted it back of course .\nHold it , Mike . You won't accomplish anything by hollering at him , right ? You worked it all up till now . Why not wait until you cool down a bit ?",
+        "dialogue_id": "dailydialog-grade-012",
+        "model_name": "transformer_generator",
+        "response": "I ' ve been a little sick for a while . I was a little boy and I haven ' t lost my temper ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                5,
+                2,
+                1,
+                5,
+                2,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "What did they say ?\nThey said I need a new hard drive .",
+        "dialogue_id": "dailydialog-grade-013",
+        "model_name": "transformer_generator",
+        "response": "They are very good ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                4,
+                1,
+                1,
+                5,
+                5,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "That is right up my alley . You say party and I'm there .\nPerfect . It will be open to the public and we anticipate roughly about five to seven hundred people .",
+        "dialogue_id": "dailydialog-grade-014",
+        "model_name": "transformer_generator",
+        "response": "Are you serious ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                5,
+                2,
+                5,
+                2,
+                2,
+                3,
+                3,
+                5
+            ]
+        },
+        "context": "I can check that for you right now . Would you mind holding ?\nSure . No problem .",
+        "dialogue_id": "dailydialog-grade-015",
+        "model_name": "transformer_generator",
+        "response": "I ' m afraid I can ' t ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                3,
+                4,
+                2,
+                2,
+                2,
+                3,
+                2,
+                3
+            ]
+        },
+        "context": "Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !\nOh no you didn't . You didn't just insult the Sals-bury Seals , did you ? Why don't you just . just go and return all of those stupid clothes and not come back until the sales are over ?",
+        "dialogue_id": "dailydialog-grade-016",
+        "model_name": "transformer_generator",
+        "response": "I ' m not so serious ! I ' m just gonna go to the game ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                5,
+                2,
+                4,
+                2,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "I wasn't all that impressed by the food .\nThe service certainly could have been better .",
+        "dialogue_id": "dailydialog-grade-017",
+        "model_name": "transformer_generator",
+        "response": "What do you think of the food ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                3,
+                5,
+                5,
+                4,
+                2,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "Me ? No way , keep him away from me , please .\nWhy are you acting so strange today ?",
+        "dialogue_id": "dailydialog-grade-018",
+        "model_name": "transformer_generator",
+        "response": "Because he ' s a little boy ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                3,
+                1,
+                4,
+                2,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "Did you lend him a lot of money ?\nNot much . I had to pay an unexpected bill , so I needed the money back .",
+        "dialogue_id": "dailydialog-grade-019",
+        "model_name": "transformer_generator",
+        "response": "I didn ' t pay attention to it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                1,
+                2,
+                1,
+                2,
+                2,
+                1,
+                3,
+                5
+            ]
+        },
+        "context": "Here you are .\nThanks . What kind of stone is this ?",
+        "dialogue_id": "dailydialog-grade-020",
+        "model_name": "transformer_generator",
+        "response": "I ' m going to have a big fan of meat ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                1,
+                4,
+                2,
+                2,
+                4,
+                2,
+                4,
+                5
+            ]
+        },
+        "context": "Excuse me . Do you mind if I try this on ?\nNot at all . The changing rooms are just this way .",
+        "dialogue_id": "dailydialog-grade-021",
+        "model_name": "transformer_generator",
+        "response": "I am sorry , but I ' m afraid I can ' t ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                5,
+                4,
+                5,
+                3,
+                2,
+                2,
+                4,
+                5
+            ]
+        },
+        "context": "Well , it's specially made of a platinum alloy , sir , and the lustre will never fade out .\nI'II take them . Please wrap them up tor me and give me the receipt .",
+        "dialogue_id": "dailydialog-grade-022",
+        "model_name": "transformer_generator",
+        "response": "OK . I ' ll take it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                2,
+                4,
+                2,
+                4,
+                4,
+                2,
+                5,
+                5
+            ]
+        },
+        "context": "That's for the phone calls you made from your room .\nCan I pay with traveller's cheques ?",
+        "dialogue_id": "dailydialog-grade-023",
+        "model_name": "transformer_generator",
+        "response": "Yes , I have ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                1,
+                4,
+                2,
+                2,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        "context": "Yes , I have been working in the Public Relations Section of a company in the past two years . I plan the advertising campaign and cooperate the work of artists and typographers . Sometimes I have to do the work of a specialist when there's something urgent .\nDo you have any practical experience as a secretary ?",
+        "dialogue_id": "dailydialog-grade-024",
+        "model_name": "transformer_generator",
+        "response": "I ' m not familiar with the company , but I don ' t have any other questions . I ' m not familiar with the customer . I ' m afraid I can ' t do any other things ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                4,
+                4,
+                5,
+                1,
+                4,
+                5,
+                5,
+                2
+            ]
+        },
+        "context": "How long will the induction training be ?\nAbout two weeks .",
+        "dialogue_id": "dailydialog-grade-025",
+        "model_name": "transformer_generator",
+        "response": "You ' re welcome ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                1,
+                4,
+                2,
+                2,
+                1,
+                4,
+                3,
+                3,
+                5
+            ]
+        },
+        "context": "Yeah , about .\nDo you know Chinese better now ?",
+        "dialogue_id": "dailydialog-grade-026",
+        "model_name": "transformer_generator",
+        "response": "I know . But I know you ' re a student now ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                4,
+                3,
+                2,
+                1,
+                2,
+                3,
+                2,
+                5
+            ]
+        },
+        "context": "Hum , Edward Norton , or something like that . Did you like him ?\nYes . He was excellent . They worked well together , don't you think ?",
+        "dialogue_id": "dailydialog-grade-027",
+        "model_name": "transformer_generator",
+        "response": "Yes , I was a little boy ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                4,
+                3,
+                3,
+                1,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "What sort of job would you like to take ?\nI prefer a sedentary job and I used to work as an operator .",
+        "dialogue_id": "dailydialog-grade-028",
+        "model_name": "transformer_generator",
+        "response": "What kind of job do you want ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                1,
+                4,
+                3,
+                4,
+                1,
+                2,
+                4,
+                3,
+                2
+            ]
+        },
+        "context": "Yes , I'd like a book about law .\nWould you tell me the name of the book and the author ?",
+        "dialogue_id": "dailydialog-grade-029",
+        "model_name": "transformer_generator",
+        "response": "It ' s author author ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                4,
+                5,
+                1,
+                4,
+                3,
+                2,
+                3,
+                4
+            ]
+        },
+        "context": "I like the sound of that .\nYes , that is today's sale price .",
+        "dialogue_id": "dailydialog-grade-030",
+        "model_name": "transformer_generator",
+        "response": "I ' m sorry , but I didn ' t expect you to pay for it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                4,
+                1,
+                2,
+                4,
+                2,
+                4,
+                4
+            ]
+        },
+        "context": "Good morning .\nWhat does the paper say ?",
+        "dialogue_id": "dailydialog-grade-031",
+        "model_name": "transformer_generator",
+        "response": "It means that you can only afford it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                3,
+                3,
+                1,
+                4,
+                4,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "All right , can I have your passbook ?\nYes , here you go .",
+        "dialogue_id": "dailydialog-grade-032",
+        "model_name": "transformer_generator",
+        "response": "I want to go to the bank ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                2,
+                1,
+                5,
+                5,
+                5,
+                5,
+                3
+            ]
+        },
+        "context": "I'm very sorry to hear that . May I have your name and room number , please ?\nYes , it's Yao Lan . Room 406 .",
+        "dialogue_id": "dailydialog-grade-033",
+        "model_name": "transformer_generator",
+        "response": "Thanks ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                4,
+                2,
+                1,
+                3,
+                4,
+                2,
+                3,
+                4
+            ]
+        },
+        "context": "I should tell you that I'm checking out in about 30 minutes .\nI'm ready when you are , sir .",
+        "dialogue_id": "dailydialog-grade-034",
+        "model_name": "transformer_generator",
+        "response": "I ' m afraid I ' ll be back in a minute ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                5,
+                4,
+                5,
+                1,
+                2,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "Hello ! How do I get more amenities ?\nI'm sorry , sir . I'm not sure I understand .",
+        "dialogue_id": "dailydialog-grade-035",
+        "model_name": "transformer_generator",
+        "response": "Well , sir , you are quite right ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                4,
+                2,
+                1,
+                1,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "And they will yell back at you .\nYelling doesn't do any good .",
+        "dialogue_id": "dailydialog-grade-036",
+        "model_name": "transformer_generator",
+        "response": "I ' ll go ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                3,
+                4,
+                2,
+                1,
+                2,
+                5,
+                3,
+                5
+            ]
+        },
+        "context": "The traffic is not very heavy on this high way , is it ? So I'm sure we'll make it .\nNo , but we'Ve got a hurry . It will be the rush hour soon .",
+        "dialogue_id": "dailydialog-grade-037",
+        "model_name": "transformer_generator",
+        "response": "I ' m afraid we can ' t wait until the traffic jam ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                3,
+                4,
+                3,
+                1,
+                5,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "What style do you want ?\nI want to buy a V-neck checked sweater , and it should be tight .",
+        "dialogue_id": "dailydialog-grade-038",
+        "model_name": "transformer_generator",
+        "response": "OK . Here you are ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                4,
+                5,
+                3,
+                1,
+                5,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "Mr . Smith , please .\nSorry , he is out .",
+        "dialogue_id": "dailydialog-grade-039",
+        "model_name": "transformer_generator",
+        "response": "I ' m sorry , Mr . Smith ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                2,
+                5,
+                4,
+                3,
+                5,
+                4,
+                4,
+                1
+            ]
+        },
+        "context": "Surely of course .\nHere is the film . Can I get my pictures tomorrow ?",
+        "dialogue_id": "dailydialog-grade-040",
+        "model_name": "transformer_generator",
+        "response": "Sure . What is it ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                5,
+                5,
+                4,
+                5,
+                4,
+                3,
+                3,
+                1
+            ]
+        },
+        "context": "I need to stay home tonight and finish my term paper .\nOK . What about going to the movies on Friday night ?",
+        "dialogue_id": "dailydialog-grade-041",
+        "model_name": "transformer_generator",
+        "response": "I ' m not sure ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                5,
+                3,
+                3,
+                3,
+                3,
+                3,
+                1
+            ]
+        },
+        "context": "Let me check . Yes , we have .\nMay I try it on ?",
+        "dialogue_id": "dailydialog-grade-042",
+        "model_name": "transformer_generator",
+        "response": "Here you are ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                4,
+                2,
+                4,
+                3,
+                2,
+                2,
+                4,
+                1
+            ]
+        },
+        "context": "And they're very dear , too .\nThey're on special offer today .",
+        "dialogue_id": "dailydialog-grade-043",
+        "model_name": "transformer_generator",
+        "response": "They ' re quite different , but they ' re not going to be able to get a raise ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                3,
+                5,
+                5,
+                4,
+                3,
+                5,
+                3,
+                1
+            ]
+        },
+        "context": "You can't come any earlier than that ?\nI'm sorry . That's the only available time .",
+        "dialogue_id": "dailydialog-grade-044",
+        "model_name": "transformer_generator",
+        "response": "What time does the next time ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                5,
+                4,
+                4,
+                1,
+                2,
+                3,
+                4,
+                3
+            ]
+        },
+        "context": "Hello .\nHi . It's Tony calling from the dentist's office . Is Lily there ?",
+        "dialogue_id": "dailydialog-grade-045",
+        "model_name": "transformer_generator",
+        "response": "Yes , he is ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                2,
+                4,
+                1,
+                4,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "Excuse me . I have an appointment with Mr . Li at nine . May I come in ?\nYes , come in please . I am Mr . Li . You must be My Liu , right ?",
+        "dialogue_id": "dailydialog-grade-046",
+        "model_name": "transformer_generator",
+        "response": "Yes , I am . I am afraid I can ' t ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                4,
+                4,
+                2,
+                1,
+                3,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "You need a babysitter .\nYes , I'd ask Jill , the girl I've had before , but I need someone overnight . Maybe even for two nights .",
+        "dialogue_id": "dailydialog-grade-047",
+        "model_name": "transformer_generator",
+        "response": "I know , but I ' m a girl of my own friends ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                5,
+                4,
+                2
+            ]
+        },
+        "context": "What is it ? What happened ?\nI think someone is stalking me .",
+        "dialogue_id": "dailydialog-grade-048",
+        "model_name": "transformer_generator",
+        "response": "Yeah , I just got it . I just got it . I just got it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                2,
+                3,
+                1,
+                4,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "What is it used for ? I mean , why bother to get this special account ?\nGroup companies can use this to make their arrangement of funds flexible , when dealing with their subsidiaries .",
+        "dialogue_id": "dailydialog-grade-049",
+        "model_name": "transformer_generator",
+        "response": "What does the company have ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                4,
+                1,
+                5,
+                3,
+                2,
+                2,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "The boss wanted to pay Bob with stock options . But Bob didn't want to play that game again .\nAgain ?",
+        "dialogue_id": "dailydialog-grade-050",
+        "model_name": "transformer_generator",
+        "response": "I don ' t know . I don ' t know ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                4,
+                1,
+                2,
+                3,
+                2,
+                2,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "Shall we drop in somewhere for a couple of drinks ?\nThat sounds like a good idea .",
+        "dialogue_id": "dailydialog-grade-051",
+        "model_name": "transformer_generator",
+        "response": "What do you mean ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                1,
+                4,
+                3,
+                3,
+                1,
+                1,
+                4,
+                2
+            ]
+        },
+        "context": "Ah , some products are successful at home , but not be popular overseas .\nThat's because the fashion , taste and social customs and so on vary considerably .",
+        "dialogue_id": "dailydialog-grade-052",
+        "model_name": "transformer_generator",
+        "response": "I see . I ' ll look for you to find a job ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                1,
+                2,
+                5,
+                5,
+                5,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "How can you be so sure ?\nI can tell form the way he spoke to us .",
+        "dialogue_id": "dailydialog-grade-053",
+        "model_name": "transformer_generator",
+        "response": "I see ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                1,
+                3,
+                3,
+                2,
+                2,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "You know , I fell in love with this house the first moment I laid eyes on it .\nThe style of the exterior is just what I'Ve been looking for !",
+        "dialogue_id": "dailydialog-grade-054",
+        "model_name": "transformer_generator",
+        "response": "Have you ever been to the windows ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                1,
+                2,
+                3,
+                5,
+                5,
+                3,
+                5,
+                5
+            ]
+        },
+        "context": "I want to go traveling .\nDo you have any where in mind ?",
+        "dialogue_id": "dailydialog-grade-055",
+        "model_name": "transformer_generator",
+        "response": "I ' m not sure ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                1,
+                4,
+                5,
+                3,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        "context": "Not bad .\nSay I've got two tickets for the concert this evening . Would you like to come with me ?",
+        "dialogue_id": "dailydialog-grade-056",
+        "model_name": "transformer_generator",
+        "response": "That ' s fine ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                1,
+                3,
+                4,
+                4,
+                4,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "With everything , with everybody , with all this !\nA good suggestion for you . You need a holiday .",
+        "dialogue_id": "dailydialog-grade-057",
+        "model_name": "transformer_generator",
+        "response": "What ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                1,
+                3,
+                3,
+                3,
+                4,
+                4,
+                5,
+                1
+            ]
+        },
+        "context": "Good afternoon . I come here specially to pick up my tickets . I booked it last month . This is my reservation note .\nI am terribly sorry . You didn't come to reconfirm recently . You should have come to pick up your ticket three days ago since it's an international flight , any reservation without reconfirmation within 72 hours will be cancelled .",
+        "dialogue_id": "dailydialog-grade-058",
+        "model_name": "transformer_generator",
+        "response": "That ' s fine . We will have a reservation for us ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                2,
+                4,
+                2,
+                1
+            ]
+        },
+        "context": "Are these the clothes you want to have washed ?\nYes . When can I get them back ?",
+        "dialogue_id": "dailydialog-grade-059",
+        "model_name": "transformer_generator",
+        "response": "You can wash the clothes without clothes , and then you will be washed by the window ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                5,
+                3,
+                2,
+                2,
+                3,
+                2,
+                4,
+                3
+            ]
+        },
+        "context": "Exactly ! I searched on the web and found a couple of HMO's with low co-pays and good coverage . The deductibles are low , too .\nSounds good , although , do you think we can qualify for insurance ? Those insurance companies are real pirates when it comes to money .",
+        "dialogue_id": "dailydialog-grade-060",
+        "model_name": "transformer_generator",
+        "response": "If we are not , we should start to work overtime , we should start the rest ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                2,
+                5,
+                2,
+                4,
+                5,
+                4,
+                3,
+                4
+            ]
+        },
+        "context": "Then tell me something about your background .\nMy major was computer science when I was at college , and I am quite familiar with Visual C + + and Java language .",
+        "dialogue_id": "dailydialog-grade-061",
+        "model_name": "transformer_generator",
+        "response": "What ' s your computer qualifications ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                4,
+                3,
+                2,
+                4,
+                3,
+                2,
+                4,
+                1
+            ]
+        },
+        "context": "Hi . What's your name ?\nMy name is Jung Min . What's your name ?",
+        "dialogue_id": "dailydialog-grade-062",
+        "model_name": "transformer_generator",
+        "response": "It ' s Snow ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                3,
+                3,
+                2,
+                4,
+                4,
+                3,
+                3,
+                1
+            ]
+        },
+        "context": "Great ! B , most of the items listed are available this year . I hope we can come to an agreement and sign the contracts , so as to enable our timely delivery .\nThat sounds good . But I have a proposal now .",
+        "dialogue_id": "dailydialog-grade-063",
+        "model_name": "transformer_generator",
+        "response": "We have a problem with your business . We will be ready by Thursday ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                4,
+                5,
+                2,
+                4,
+                4,
+                4,
+                3,
+                2
+            ]
+        },
+        "context": "Why don't you watch where you're going ?\nMe ? You're the one who pulled out in front of me !",
+        "dialogue_id": "dailydialog-grade-064",
+        "model_name": "transformer_generator",
+        "response": "I ' m not sure ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                1,
+                5,
+                4,
+                4,
+                5,
+                5
+            ]
+        },
+        "context": "How much is that one ?\nIt's two hundred and eighty dollars .",
+        "dialogue_id": "dailydialog-grade-065",
+        "model_name": "transformer_generator",
+        "response": "That ' s good ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                1,
+                2,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "I need to book a plane ticket to London .\nRound-trip or one-way ?",
+        "dialogue_id": "dailydialog-grade-066",
+        "model_name": "transformer_generator",
+        "response": "When will you be arriving ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                4,
+                1,
+                5,
+                2,
+                5,
+                3,
+                3
+            ]
+        },
+        "context": "I don't know . But this is definitely the last straw .\nMaybe you should start seeing someone else .",
+        "dialogue_id": "dailydialog-grade-067",
+        "model_name": "transformer_generator",
+        "response": "I ' m sorry , but I ' m not sure ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                3,
+                1,
+                4,
+                4,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "Oh , I know a place where you might like to eat .\nIs it close by ?",
+        "dialogue_id": "dailydialog-grade-068",
+        "model_name": "transformer_generator",
+        "response": "I think you ' re right ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                1,
+                3,
+                2,
+                2,
+                4,
+                1
+            ]
+        },
+        "context": "That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?\nIt's all the way to the back . See that yellow door ?",
+        "dialogue_id": "dailydialog-grade-069",
+        "model_name": "transformer_generator",
+        "response": "Yes , it ' s my first time ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                5,
+                2,
+                5,
+                1,
+                5,
+                5,
+                5,
+                4
+            ]
+        },
+        "context": "I think that's just steam . Your engine's overheated .\nDo you know a lot about cars ?",
+        "dialogue_id": "dailydialog-grade-070",
+        "model_name": "transformer_generator",
+        "response": "No , I don ' t ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                3,
+                2,
+                1,
+                2,
+                2,
+                3,
+                4
+            ]
+        },
+        "context": "Sorry . I was too worried .\nI firmly believe that you love your brother very much .",
+        "dialogue_id": "dailydialog-grade-071",
+        "model_name": "transformer_generator",
+        "response": "Oh , I ' m sorry . I ' ve never heard about it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                3,
+                3,
+                4,
+                1,
+                4,
+                4,
+                3,
+                3
+            ]
+        },
+        "context": "Not really . I don't think pop music has much depth .\nI see what you mean . I think that's way I like it so much .",
+        "dialogue_id": "dailydialog-grade-072",
+        "model_name": "transformer_generator",
+        "response": "Really ? What ' s that ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                5,
+                2,
+                5,
+                1,
+                5,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "Fine . I'll take the compact .\nAlright . We have a blue Ford Focus for you , Mr . Fox . Would you like insurance ?",
+        "dialogue_id": "dailydialog-grade-073",
+        "model_name": "transformer_generator",
+        "response": "Yes , I ' d like to ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                2,
+                4,
+                2,
+                1,
+                5,
+                4,
+                3,
+                3
+            ]
+        },
+        "context": "Um , ninety-five dollars ?\nYes , that's the price they were advertising it at . I was hoping it might go on sale soon . Why , how much did you pay for it ?",
+        "dialogue_id": "dailydialog-grade-074",
+        "model_name": "transformer_generator",
+        "response": "Well , I think it ' s a little expensive ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                5,
+                5,
+                3,
+                2,
+                5,
+                3,
+                5
+            ]
+        },
+        "context": "I went to Salt Lake City on business . What's up ?\nI got fired .",
+        "dialogue_id": "dailydialog-grade-075",
+        "model_name": "transformer_generator",
+        "response": "Really ? Why ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                3,
+                1,
+                5,
+                3,
+                3,
+                4,
+                2,
+                3
+            ]
+        },
+        "context": "Really ? Wow with who ?\nThis girl I've been chatting with for the past couple of months . She's really cool and she's driving over here this weekend .",
+        "dialogue_id": "dailydialog-grade-076",
+        "model_name": "transformer_generator",
+        "response": "Oh , I know . I ' ve heard that she ' s going to be a good thing ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                2,
+                5,
+                2,
+                4,
+                5,
+                3,
+                3
+            ]
+        },
+        "context": "Why aren't you eating anything else ?\nWell , fruits and vegetables are very healthy .",
+        "dialogue_id": "dailydialog-grade-077",
+        "model_name": "transformer_generator",
+        "response": "What kind of vegetables do you want to eat ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                1,
+                2,
+                2,
+                2,
+                3,
+                4,
+                3
+            ]
+        },
+        "context": "Lucky you ! I can't buy anything else . I'm flat broke .\nI got a replace my party outfit , I trashed it last week .",
+        "dialogue_id": "dailydialog-grade-078",
+        "model_name": "transformer_generator",
+        "response": "You did a good one . It was a little hard on me ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                2,
+                1,
+                2,
+                2,
+                2,
+                4,
+                3,
+                3
+            ]
+        },
+        "context": "It is an exhibition of Chinese jades . It is held each year . A nice collection jades of are on display and sold .\nSounds great ! Can you stop somewhere here for a minute ? I will get some souvenirs for my friends .",
+        "dialogue_id": "dailydialog-grade-079",
+        "model_name": "transformer_generator",
+        "response": "Oh , I am really sorry . I have been looking forward to seeing you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                5,
+                1,
+                2,
+                4,
+                5,
+                2,
+                5,
+                4
+            ]
+        },
+        "context": "Have you ever tried shopping online ?\nNo , never . I prefer to actually see and touch what I'm buying before I pay for it , especially for clothes and shoes .",
+        "dialogue_id": "dailydialog-grade-080",
+        "model_name": "transformer_generator",
+        "response": "What about the size ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                3,
+                1,
+                3,
+                4,
+                4,
+                5,
+                3,
+                3
+            ]
+        },
+        "context": "How nice of him . I'll be delighted to go . But what time would be convenient ?\nIf you could be ready by , say 6:30 o'clock , I'll be at the hotel to pick you up .",
+        "dialogue_id": "dailydialog-grade-081",
+        "model_name": "transformer_generator",
+        "response": "That ' s fine ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                1,
+                2,
+                4,
+                4,
+                5,
+                2,
+                3
+            ]
+        },
+        "context": "Barely . Will you be checking any luggage today ?\nYes , One suitcase . I also have a carry-on bag .",
+        "dialogue_id": "dailydialog-grade-082",
+        "model_name": "transformer_generator",
+        "response": "Do you have anything to declare ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                2,
+                1,
+                5,
+                3,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "I'm Du Juan , in Room 312 .\nI see . Wait in the room , please .",
+        "dialogue_id": "dailydialog-grade-083",
+        "model_name": "transformer_generator",
+        "response": "OK ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                1,
+                1,
+                3,
+                5,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "What do you feel about gay marriage ?\nI think everyone has the right to love who they want .",
+        "dialogue_id": "dailydialog-grade-084",
+        "model_name": "transformer_generator",
+        "response": "They ' re really popular ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                3,
+                5,
+                5,
+                4,
+                2,
+                4,
+                4,
+                4
+            ]
+        },
+        "context": "The bartender just gave the last call . Let's order another round , okay ?\nSure , but let's get a pitcher this time We should be able to down it before they close .",
+        "dialogue_id": "dailydialog-grade-085",
+        "model_name": "transformer_generator",
+        "response": "That ' s good . I ' ll be there ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                5,
+                3,
+                3,
+                3,
+                5,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "How do you do ? Please be seated , How is your trip here ?\nQuite good , I think . I came here by bus , and it took me about 15 minutes .",
+        "dialogue_id": "dailydialog-grade-086",
+        "model_name": "transformer_generator",
+        "response": "Really ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                3,
+                4,
+                3,
+                5,
+                4,
+                2,
+                4
+            ]
+        },
+        "context": "Does the class start again , Mam ?\nYes , but to the heath , this break has long enough .",
+        "dialogue_id": "dailydialog-grade-087",
+        "model_name": "transformer_generator",
+        "response": "Yes , but I have a lot of time ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                3,
+                2,
+                2,
+                3,
+                5,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "Sure ! Are you okay ? You seem a bit worried . What's on your mind ?\nWe need to talk .",
+        "dialogue_id": "dailydialog-grade-088",
+        "model_name": "transformer_generator",
+        "response": "I need to talk with you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                5,
+                4,
+                3,
+                4,
+                5,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "Good afternoon ! Trans Pacific Airline . How can I help you ?\nI'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?",
+        "dialogue_id": "dailydialog-grade-089",
+        "model_name": "transformer_generator",
+        "response": "Sure . I ' m afraid you can ' t ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                4,
+                3,
+                2,
+                2,
+                1,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "Have I got a high fever ?\nYes , thirty-eight point seven . Do you have a headache , chest or throat pain ?",
+        "dialogue_id": "dailydialog-grade-090",
+        "model_name": "transformer_generator",
+        "response": "No , I don ' t . I don ' t have a fever ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "That one truly is a beautiful piece of work , isn't it ?\nOne last question",
+        "dialogue_id": "dailydialog-grade-091",
+        "model_name": "transformer_generator",
+        "response": "Yes , I do ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                3,
+                3,
+                4,
+                3,
+                1,
+                4,
+                3,
+                5
+            ]
+        },
+        "context": "You'll need to make an appointment .\nCould I do that right now , please ?",
+        "dialogue_id": "dailydialog-grade-092",
+        "model_name": "transformer_generator",
+        "response": "I ' m sorry . I can ' t ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                3,
+                2,
+                2,
+                1,
+                1,
+                4,
+                2,
+                2
+            ]
+        },
+        "context": "You get your bus pass ?\nI'm not going to buy one .",
+        "dialogue_id": "dailydialog-grade-093",
+        "model_name": "transformer_generator",
+        "response": "How much do you want to get ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                2,
+                2,
+                1,
+                1,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "You're made a good choice . This china tea set is unusual .\nWhere was it from ?",
+        "dialogue_id": "dailydialog-grade-094",
+        "model_name": "transformer_generator",
+        "response": "It was great . But I didn ' t know you were in the middle of the tea ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                2,
+                5,
+                5,
+                5,
+                3,
+                3,
+                5,
+                5
+            ]
+        },
+        "context": "Well , you should come this weekend . I think you could do the climb .\nYeah , I will . See you then !",
+        "dialogue_id": "dailydialog-grade-095",
+        "model_name": "transformer_generator",
+        "response": "See you !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                4,
+                2,
+                3,
+                2,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "Let me guess , from Sarah . It looks like something she would drive .\nYou guessed right . Besides , the color violet is a little girly for me .",
+        "dialogue_id": "dailydialog-grade-096",
+        "model_name": "transformer_generator",
+        "response": "What ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                4,
+                5,
+                3,
+                3,
+                2,
+                3,
+                2,
+                5
+            ]
+        },
+        "context": "Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .\nIt's nice to meet you , Mr . Cooper .",
+        "dialogue_id": "dailydialog-grade-097",
+        "model_name": "transformer_generator",
+        "response": "Yes , I ' m glad to hear you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                1,
+                4,
+                3,
+                2,
+                3,
+                1,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "Have you ever listened to AM radio ? It's quite a different experience than the traditional news stations on TV and FM radio .\nI don't remember the last time I listened to AM radio .",
+        "dialogue_id": "dailydialog-grade-098",
+        "model_name": "transformer_generator",
+        "response": "But you should have a lot of money ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                2,
+                5,
+                5,
+                4,
+                3,
+                2,
+                3,
+                5
+            ]
+        },
+        "context": "It is too bad today .\nWhat happened ?",
+        "dialogue_id": "dailydialog-grade-099",
+        "model_name": "transformer_generator",
+        "response": "It was a little accident ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                5,
+                2,
+                5,
+                5,
+                4,
+                5,
+                4,
+                4
+            ]
+        },
+        "context": "Hey Tina . What are you doing ?\nI was just watching TV . What's going on with you ?",
+        "dialogue_id": "dailydialog-grade-100",
+        "model_name": "transformer_generator",
+        "response": "I ' m going to the movies ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                5,
+                4,
+                4,
+                3,
+                5,
+                5,
+                2,
+                3
+            ]
+        },
+        "context": "Here's my name card .\nAnd here's mine .",
+        "dialogue_id": "dailydialog-grade-101",
+        "model_name": "transformer_generator",
+        "response": "Thank you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                3,
+                3,
+                3,
+                3,
+                1,
+                5,
+                4,
+                3
+            ]
+        },
+        "context": "Thank you ! Would you like an aisle seat or a window seat ?\nAn aisle seat , please . I'm tall and need to get up and walk pretty often .",
+        "dialogue_id": "dailydialog-grade-102",
+        "model_name": "transformer_generator",
+        "response": "OK . I ' ll come back with you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                5,
+                4,
+                4,
+                3,
+                2,
+                5,
+                2,
+                3
+            ]
+        },
+        "context": "Why doesn't he ask her ?\nHe is too scared to ask her .",
+        "dialogue_id": "dailydialog-grade-103",
+        "model_name": "transformer_generator",
+        "response": "But I don ' t know ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                5,
+                3,
+                3,
+                1,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "What if I don't want to find another girl ?\nYou'll change your mind . Look at everyone in the world . They all break up and move on . The faster you understand this , the quicker you will recover .",
+        "dialogue_id": "dailydialog-grade-104",
+        "model_name": "transformer_generator",
+        "response": "Thank you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                4,
+                2,
+                5,
+                5,
+                1,
+                5,
+                5,
+                4
+            ]
+        },
+        "context": "I'd like to speak Dr . Johnson .\nSorry , but he's not in . May I take a message for you ?",
+        "dialogue_id": "dailydialog-grade-105",
+        "model_name": "transformer_generator",
+        "response": "Yes , please ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                4,
+                4,
+                3,
+                4,
+                1,
+                5,
+                5,
+                3
+            ]
+        },
+        "context": "Well , known , Jim , I'm  .  .  .  I'm pretty much in favour of your computers , I think computers teach kids to think , because they require logical thoughts .\nBut I  .  .  .  I don't agree with thatbecause computers weaken kids'ability to thinkbecause kids don't learn basic skills .",
+        "dialogue_id": "dailydialog-grade-106",
+        "model_name": "transformer_generator",
+        "response": "What do you mean ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                3,
+                4,
+                3,
+                5,
+                1,
+                5,
+                5,
+                5
+            ]
+        },
+        "context": "I have a lot of luggage . Will those fit in the taxi ?\nTake it easy . I'll send a larger to pick you up .",
+        "dialogue_id": "dailydialog-grade-107",
+        "model_name": "transformer_generator",
+        "response": "Thank you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                4,
+                4,
+                4,
+                5,
+                1,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "Anyway , the show is breathtaking . By the way , where did they get so much snow here ?\nWell , they have the most advanced snowmaking machine .",
+        "dialogue_id": "dailydialog-grade-108",
+        "model_name": "transformer_generator",
+        "response": "Yes , they did ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                4,
+                3,
+                2,
+                1,
+                1,
+                5,
+                2,
+                4
+            ]
+        },
+        "context": "Nothing , Mummy . I was hungry so I came here for some milk .\nMilk ? I thought you didn't like milk .",
+        "dialogue_id": "dailydialog-grade-109",
+        "model_name": "transformer_generator",
+        "response": "What about some of milk ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                3,
+                5,
+                1,
+                3,
+                4,
+                5,
+                2
+            ]
+        },
+        "context": "Please be at the airport two hours before your departure to check in . You also need to reconfirm your reservation with the airline at least 7 days prior to your departure .\nWhat happens if I can't leave on April 13 ? Can I cancel my ticket or change the reservation to another date ?",
+        "dialogue_id": "dailydialog-grade-110",
+        "model_name": "transformer_generator",
+        "response": "No , you don ' t have to pay for your ticket ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                2,
+                5,
+                1,
+                3,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "Thank you for your inition . I'm free tonight .\nWhich kind of food do you like , chinese food , western food or sea food ?",
+        "dialogue_id": "dailydialog-grade-111",
+        "model_name": "transformer_generator",
+        "response": "I like it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                2,
+                1,
+                4,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "Yes . There have been a few there recently . They say that this one was not a big quake . The Iranians are dealing with it on their own . They have purchased some special equipment to find people buried u\nDoes the newspaper say anything about casualties ?",
+        "dialogue_id": "dailydialog-grade-112",
+        "model_name": "transformer_generator",
+        "response": "For example , the people are in the past two months , as the people are in the country , but not as bad as the government is highly competitive ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                4,
+                5,
+                1,
+                4,
+                4,
+                2,
+                5
+            ]
+        },
+        "context": "Turn on the TV for what ?\nSo that we can sit down together and listen to some music .",
+        "dialogue_id": "dailydialog-grade-113",
+        "model_name": "transformer_generator",
+        "response": "Really ? What kind of music do you like ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                5,
+                5,
+                1,
+                4,
+                3,
+                4,
+                5
+            ]
+        },
+        "context": "Yes , I'd like a glass of iced tea .\nOkay . I'll be back in a minute with your drink and salad .",
+        "dialogue_id": "dailydialog-grade-114",
+        "model_name": "transformer_generator",
+        "response": "Thank you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                5,
+                4,
+                5,
+                3,
+                4,
+                5,
+                5,
+                2
+            ]
+        },
+        "context": "Wait a moment , please . Let me check it .\nBy the way , I want a large room .",
+        "dialogue_id": "dailydialog-grade-115",
+        "model_name": "transformer_generator",
+        "response": "Here you are ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                4,
+                4,
+                5,
+                2,
+                5,
+                2,
+                4,
+                5
+            ]
+        },
+        "context": "It was alright . I ran into Bill and we got to talking for a while . He's in a bit of a jam .\nWhy ? What happened ?",
+        "dialogue_id": "dailydialog-grade-116",
+        "model_name": "transformer_generator",
+        "response": "Well , he was a little accident ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                5,
+                4,
+                5,
+                2,
+                5,
+                5,
+                3,
+                2
+            ]
+        },
+        "context": "Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .\nI'm sure . Okay , now let's move on to your work experience , shall we ?",
+        "dialogue_id": "dailydialog-grade-117",
+        "model_name": "transformer_generator",
+        "response": "Yeah , why not ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                3,
+                2,
+                2,
+                2,
+                3,
+                2,
+                3
+            ]
+        },
+        "context": "Thank God ! I am finished writing that service guide ! It took me forever !\nWhen did you finish ?",
+        "dialogue_id": "dailydialog-grade-118",
+        "model_name": "transformer_generator",
+        "response": "I had no time ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                3,
+                2,
+                2,
+                3,
+                2,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "What's the matter , John ? you seemed to be restless today .\nYou see , I've been offered a new job . I can't decide whether to take it or not .",
+        "dialogue_id": "dailydialog-grade-119",
+        "model_name": "transformer_generator",
+        "response": "Well , I ' ve got to say . I ' ve got a promotion ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                4,
+                5,
+                2,
+                3,
+                4,
+                1,
+                1
+            ]
+        },
+        "context": "Look ! Mom , that's amazing ! I can't believe the girls have so neat movements .\nYeah , they all received very strict training . A minute on the stage takes ten-year practice .",
+        "dialogue_id": "dailydialog-grade-120",
+        "model_name": "transformer_generator",
+        "response": "Oh , no ! I see , you must have a lot of trouble with the pictures of the basketball team ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                4,
+                3,
+                2,
+                3,
+                3,
+                1,
+                1
+            ]
+        },
+        "context": "Thank you .\nWhat was your major in school ?",
+        "dialogue_id": "dailydialog-grade-121",
+        "model_name": "transformer_generator",
+        "response": "I was born in college ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                5,
+                2,
+                2,
+                4,
+                5,
+                2,
+                1,
+                5
+            ]
+        },
+        "context": "I didn't just find out about one job . There were several ones that looked good .\nMaybe I should try looking on the web for work .",
+        "dialogue_id": "dailydialog-grade-122",
+        "model_name": "transformer_generator",
+        "response": "That ' s good ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                2,
+                2,
+                2,
+                3,
+                4,
+                2,
+                1,
+                5
+            ]
+        },
+        "context": "Good afternoon ! Trans Pacific Airline . How can I help you ?\nI'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?",
+        "dialogue_id": "dailydialog-grade-123",
+        "model_name": "transformer_generator",
+        "response": "Sure . I ' m afraid you can ' t ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                2,
+                4,
+                3,
+                2,
+                4,
+                3,
+                1,
+                1
+            ]
+        },
+        "context": "The washer costs 50 cents and the dryer costs a dollar .\nWhere do I put the change ?",
+        "dialogue_id": "dailydialog-grade-124",
+        "model_name": "transformer_generator",
+        "response": "Do you need to change it for you ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                5,
+                3,
+                3,
+                3,
+                2,
+                5,
+                3
+            ]
+        },
+        "context": "I see . We will go the day after tomorrow .\nBy the way , what kind of stores do we need to go ?",
+        "dialogue_id": "dailydialog-grade-125",
+        "model_name": "transformer_generator",
+        "response": "OK . Let ' s go ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                4,
+                2,
+                4,
+                4,
+                3,
+                5
+            ]
+        },
+        "context": "Heard what ?\nDeborah already had her baby .",
+        "dialogue_id": "dailydialog-grade-126",
+        "model_name": "transformer_generator",
+        "response": "Oh , what ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                4,
+                4,
+                2,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "I suppose I don't want that one then . I don't like auto-reverse . It breaks too easily .\nReally ? Have you had an auto-reverse break before ?",
+        "dialogue_id": "dailydialog-grade-127",
+        "model_name": "transformer_generator",
+        "response": "I don ' t know , but I don ' t know how to use it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                4,
+                3,
+                4,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "How much per night are we talking about ?\nEach night will be $ 308 .",
+        "dialogue_id": "dailydialog-grade-128",
+        "model_name": "transformer_generator",
+        "response": "$ 308 a night ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                3,
+                2,
+                4,
+                5,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "This is Bill Burton from Milford Insurance , I'm calling in regards to our meeting next Tuesday .\nThank you , Mr . Burton . Can you please hold for a moment ? I'll check to see if she is available .",
+        "dialogue_id": "dailydialog-grade-129",
+        "model_name": "transformer_generator",
+        "response": "OK ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                5,
+                5,
+                5,
+                5,
+                4,
+                3,
+                5,
+                4,
+                2
+            ]
+        },
+        "context": "First of all , we'll design a custom-made work-out plan according to your habits .\nHow can you get that done ?",
+        "dialogue_id": "dailydialog-grade-130",
+        "model_name": "transformer_generator",
+        "response": "Well , I think we ' ll have a try ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                2,
+                5,
+                4,
+                3,
+                5,
+                2,
+                2,
+                1,
+                2
+            ]
+        },
+        "context": "You can touch them only between the shoulder and the knees .\nThe touchdown lines are there and there . OK , let's play !",
+        "dialogue_id": "dailydialog-grade-131",
+        "model_name": "transformer_generator",
+        "response": "No kidding ! I don ' t think I can see it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                3,
+                5,
+                3,
+                2,
+                3,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "I am not surprised , you eat too much .\nAnd I suppose sitting at the desk all day in the office doesn't help .",
+        "dialogue_id": "dailydialog-grade-132",
+        "model_name": "transformer_generator",
+        "response": "Yes , I think I should go to find a place where you are ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                2,
+                5,
+                5,
+                4,
+                4,
+                5,
+                5,
+                5,
+                3
+            ]
+        },
+        "context": "I would prefer next Thursday .\nWhat time would be best for you ?",
+        "dialogue_id": "dailydialog-grade-133",
+        "model_name": "transformer_generator",
+        "response": "At 9 : 00 o ' clock ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                3,
+                5,
+                5,
+                3,
+                3,
+                5,
+                5,
+                5,
+                5
+            ]
+        },
+        "context": "Yes .\nWhat's the weather like in your country ?",
+        "dialogue_id": "dailydialog-grade-134",
+        "model_name": "transformer_generator",
+        "response": "It ' s very hot . The summers are very rainy ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                4,
+                5,
+                4,
+                4,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        "context": "Don't feel like it . I'm broke .\nWell , we can still do some window shopping , can we ?",
+        "dialogue_id": "dailydialog-grade-135",
+        "model_name": "transformer_generator",
+        "response": "I ' ll have to go to the hospital ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                4,
+                2,
+                4,
+                4,
+                2,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "I Like pop music best . Classical music is a bit too heavy for me . I can't get fully relaxed in it .\nPop music doesn't have any depth for me .",
+        "dialogue_id": "dailydialog-grade-136",
+        "model_name": "transformer_generator",
+        "response": "Oh , it ' s so interesting . I ' ve been to the past several years , I ' ve been to the movie , too ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                4,
+                2,
+                2,
+                2,
+                2,
+                2,
+                1,
+                3
+            ]
+        },
+        "context": "My appointment was on Monday .\nWhat time had you chosen ?",
+        "dialogue_id": "dailydialog-grade-137",
+        "model_name": "transformer_generator",
+        "response": "I was waiting for my invitation ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                4,
+                5,
+                3,
+                3,
+                2,
+                5,
+                5,
+                2
+            ]
+        },
+        "context": "No . I am a transit passenger going to Sweden .\nHow long are you going to stay here ?",
+        "dialogue_id": "dailydialog-grade-138",
+        "model_name": "transformer_generator",
+        "response": "I have no idea ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                3,
+                2,
+                3,
+                4,
+                2,
+                2,
+                1,
+                2
+            ]
+        },
+        "context": "she said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .\nwow ! That's really great news . How often does the magazine come out ?",
+        "dialogue_id": "dailydialog-grade-139",
+        "model_name": "transformer_generator",
+        "response": "The news is a very good idea ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                1,
+                3,
+                2,
+                3,
+                2,
+                5,
+                2,
+                4,
+                5
+            ]
+        },
+        "context": "Can't beat that ! Thank you accounting guy !\nThe game starts at seven so we'd better hustle , it's already five .",
+        "dialogue_id": "dailydialog-grade-140",
+        "model_name": "transformer_generator",
+        "response": "I ' m sorry , but I ' m still waiting for the next one ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                1,
+                3,
+                5,
+                4,
+                4,
+                3,
+                5,
+                5,
+                2
+            ]
+        },
+        "context": "Of course you do . They are silly stories just for little kids like you .\nDon't call me kid . I am a grownup .",
+        "dialogue_id": "dailydialog-grade-141",
+        "model_name": "transformer_generator",
+        "response": "Really ? I am sorry ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                1,
+                4,
+                3,
+                1,
+                2,
+                2,
+                5,
+                2,
+                3
+            ]
+        },
+        "context": "Not long , because people rush for lunch .\nThe line sure does move fast .",
+        "dialogue_id": "dailydialog-grade-142",
+        "model_name": "transformer_generator",
+        "response": "How much does it cost ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                3,
+                2,
+                1,
+                3,
+                3,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "Bank of American card . The number is 6786 9182 12300 8657 .\nThank you ! Would you like an aisle seat or a window seat ?",
+        "dialogue_id": "dailydialog-grade-143",
+        "model_name": "transformer_generator",
+        "response": "I ' m afraid I can ' t ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                1,
+                1,
+                3,
+                2,
+                1,
+                3,
+                3,
+                2,
+                5,
+                3
+            ]
+        },
+        "context": "I'm forming a music band .\nDo you already know how to play an instrument ?",
+        "dialogue_id": "dailydialog-grade-144",
+        "model_name": "transformer_generator",
+        "response": "Yeah , it ' s a good idea . You can play a musical instrument or so ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                4,
+                2,
+                5,
+                4,
+                4,
+                2,
+                3,
+                4
+            ]
+        },
+        "context": "Morning , Michael . I'Ve been very busy lately . One of our other vendors is going out of business and I'Ve been searching for a suitable replacement .\nWell , rest assured that you can count on us to be here for the long run , sitdown . Coffee ?",
+        "dialogue_id": "dailydialog-grade-145",
+        "model_name": "transformer_generator",
+        "response": "No , I ' m afraid not . I ' m not interested in the spot ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                4,
+                2,
+                3,
+                4,
+                5,
+                2,
+                3,
+                3
+            ]
+        },
+        "context": "I am dying from the heat .\nTurn on the air conditioner .",
+        "dialogue_id": "dailydialog-grade-146",
+        "model_name": "transformer_generator",
+        "response": "How long will it take ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                4,
+                4,
+                2,
+                4,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "That's how much this t . v costs .\nThat's too expensive for me .",
+        "dialogue_id": "dailydialog-grade-147",
+        "model_name": "transformer_generator",
+        "response": "I ' m not sure ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                2,
+                3,
+                2,
+                3,
+                2,
+                3,
+                4
+            ]
+        },
+        "context": "Have you seen this news article ? Apparently an organization has made a list to name the new seven wonders of the world and people could vote for them online .\nWow , that's really interesting . So who won ?",
+        "dialogue_id": "dailydialog-grade-148",
+        "model_name": "transformer_generator",
+        "response": "It ' s a lot of people who give their skills ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                5,
+                3,
+                2,
+                5,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "Yes , smoking or non-smoking ?\nWe'd like a non-smoking table , please .",
+        "dialogue_id": "dailydialog-grade-149",
+        "model_name": "transformer_generator",
+        "response": "Yes , please ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                2,
+                2,
+                5,
+                2,
+                5,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "yes , that's my only day off until Thursday .\nok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?",
+        "dialogue_id": "dailydialog-grade-150",
+        "model_name": "transformer_ranker",
+        "response": "Ok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                5,
+                5,
+                3,
+                5,
+                3,
+                4,
+                2,
+                4
+            ]
+        },
+        "context": "Hello , 332440 .\nOh hello , Sally . This is Dave Thomson here . Could I speak to Jim please ?",
+        "dialogue_id": "dailydialog-grade-151",
+        "model_name": "transformer_ranker",
+        "response": "Yes . He's in the line-up ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                2,
+                3,
+                2,
+                3,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "If only our company prescribe flex time .\nThe board has been considering introducing flex time .",
+        "dialogue_id": "dailydialog-grade-152",
+        "model_name": "transformer_ranker",
+        "response": "I'm wondering if you often trade with others on the internet ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                3,
+                2,
+                3,
+                2,
+                4,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "Thank you so much . Does he read his e-mails daily ?\nYes . He usually replies immediately .",
+        "dialogue_id": "dailydialog-grade-153",
+        "model_name": "transformer_ranker",
+        "response": "He is afraid of his father-in-law ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                2,
+                2,
+                2,
+                2,
+                3,
+                4,
+                4,
+                3
+            ]
+        },
+        "context": "I'll take a little milk , but no sugar , please . Make sure you let the tea steep a few minutes before you take the tea bag out of the cup .\nOk . What do you think about our living room ?",
+        "dialogue_id": "dailydialog-grade-154",
+        "model_name": "transformer_ranker",
+        "response": "It doesn't seem like that . Sorry , sir , we've tried everything , but we're not able to get it off the shirt . It was from the sugar I think ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                1,
+                5,
+                5,
+                5,
+                4,
+                2,
+                4,
+                4,
+                5
+            ]
+        },
+        "context": "I want to take a look at that home with the Open House flags out front .\nWhat a wonderful neighborhood ! Can you find that house on our Open House list ?",
+        "dialogue_id": "dailydialog-grade-155",
+        "model_name": "transformer_ranker",
+        "response": "Yes , it looks perfect ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                4,
+                1,
+                2,
+                2,
+                2,
+                3,
+                4,
+                2
+            ]
+        },
+        "context": "Take it easy . We are going to have our own baby . You should be happy .\nYeah , I know .",
+        "dialogue_id": "dailydialog-grade-156",
+        "model_name": "transformer_ranker",
+        "response": "I know , mom ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                1,
+                1,
+                3,
+                4,
+                2,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "Wow ! Your calligraphy is very beautiful . It was worth the wait !\nThank you . Today I'm writing a kind of poem called a Chinese couplet .",
+        "dialogue_id": "dailydialog-grade-157",
+        "model_name": "transformer_ranker",
+        "response": "oh , she keeps saying that . She never allows me to have them ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                1,
+                3,
+                4,
+                2,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        "context": "Anything wrong with it ?\nYes . When I spread it out back home , I found this hole .",
+        "dialogue_id": "dailydialog-grade-158",
+        "model_name": "transformer_ranker",
+        "response": "You're right . Let's ask her to give us one more week ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                1,
+                1,
+                3,
+                4,
+                2,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "The service did not help the situation .\nIs this a restaurant that you want to come back to ?",
+        "dialogue_id": "dailydialog-grade-159",
+        "model_name": "transformer_ranker",
+        "response": "I went up there early this morning ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                3,
+                2,
+                5,
+                2,
+                1,
+                2,
+                5
+            ]
+        },
+        "context": "Well , there will be charity performance on Saturday night . And also , there will be a solo concert by an opera star on Sunday night .\nIt's a good thing that I have choices here . Can you tell me about the one on Saturday ?",
+        "dialogue_id": "dailydialog-grade-160",
+        "model_name": "transformer_ranker",
+        "response": "Sure , it's spelled Office and then D - E - P - O - T . It ' s in the Yellow Pages ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                5,
+                4,
+                4,
+                2,
+                4,
+                1,
+                5,
+                4
+            ]
+        },
+        "context": "What do you think about the equipment in our company ?\nWe have to equip our company with a network of work stations at every office and show room as soon as possible .",
+        "dialogue_id": "dailydialog-grade-161",
+        "model_name": "transformer_ranker",
+        "response": "How do you ensure quality ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                4,
+                5,
+                4,
+                2,
+                3,
+                1,
+                2,
+                3
+            ]
+        },
+        "context": "I shouted it back of course .\nHold it , Mike . You won't accomplish anything by hollering at him , right ? You worked it all up till now . Why not wait until you cool down a bit ?",
+        "dialogue_id": "dailydialog-grade-162",
+        "model_name": "transformer_ranker",
+        "response": "well , I wish someone could talk to me about Western table manners"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                3,
+                3,
+                3,
+                2,
+                1,
+                2,
+                2
+            ]
+        },
+        "context": "What did they say ?\nThey said I need a new hard drive .",
+        "dialogue_id": "dailydialog-grade-163",
+        "model_name": "transformer_ranker",
+        "response": "They're still fighting hard . Let ' s wait and see ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                5,
+                5,
+                2,
+                2,
+                1,
+                2,
+                4
+            ]
+        },
+        "context": "That is right up my alley . You say party and I'm there .\nPerfect . It will be open to the public and we anticipate roughly about five to seven hundred people .",
+        "dialogue_id": "dailydialog-grade-164",
+        "model_name": "transformer_ranker",
+        "response": "Not until the 31st . So can you change the church reservations ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                2,
+                5,
+                4,
+                4,
+                5,
+                3,
+                2
+            ]
+        },
+        "context": "I can check that for you right now . Would you mind holding ?\nSure . No problem .",
+        "dialogue_id": "dailydialog-grade-165",
+        "model_name": "transformer_ranker",
+        "response": "Is this a promise ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                5,
+                4,
+                2,
+                2,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !\nOh no you didn't . You didn't just insult the Sals-bury Seals , did you ? Why don't you just . just go and return all of those stupid clothes and not come back until the sales are over ?",
+        "dialogue_id": "dailydialog-grade-166",
+        "model_name": "transformer_ranker",
+        "response": "Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                1,
+                3,
+                3,
+                3,
+                1,
+                3,
+                3,
+                4
+            ]
+        },
+        "context": "I wasn't all that impressed by the food .\nThe service certainly could have been better .",
+        "dialogue_id": "dailydialog-grade-167",
+        "model_name": "transformer_ranker",
+        "response": "It wasn't as good as you think ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                1,
+                2,
+                3,
+                3,
+                5,
+                4,
+                4,
+                4
+            ]
+        },
+        "context": "Me ? No way , keep him away from me , please .\nWhy are you acting so strange today ?",
+        "dialogue_id": "dailydialog-grade-168",
+        "model_name": "transformer_ranker",
+        "response": "I just had a quarrel with him ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                1,
+                5,
+                3,
+                2,
+                2,
+                3,
+                4,
+                4
+            ]
+        },
+        "context": "Did you lend him a lot of money ?\nNot much . I had to pay an unexpected bill , so I needed the money back .",
+        "dialogue_id": "dailydialog-grade-169",
+        "model_name": "transformer_ranker",
+        "response": "not much . I had to pay an unexpected bill , so I needed the money back ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                4,
+                5,
+                5,
+                1,
+                5,
+                5,
+                3,
+                5
+            ]
+        },
+        "context": "Here you are .\nThanks . What kind of stone is this ?",
+        "dialogue_id": "dailydialog-grade-170",
+        "model_name": "transformer_ranker",
+        "response": "It's C261 ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                3,
+                5,
+                2,
+                1,
+                5,
+                4,
+                4,
+                2
+            ]
+        },
+        "context": "Excuse me . Do you mind if I try this on ?\nNot at all . The changing rooms are just this way .",
+        "dialogue_id": "dailydialog-grade-171",
+        "model_name": "transformer_ranker",
+        "response": "That is all right ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                3,
+                5,
+                3,
+                1,
+                5,
+                5,
+                4,
+                2
+            ]
+        },
+        "context": "Well , it's specially made of a platinum alloy , sir , and the lustre will never fade out .\nI'II take them . Please wrap them up tor me and give me the receipt .",
+        "dialogue_id": "dailydialog-grade-172",
+        "model_name": "transformer_ranker",
+        "response": "All right . Here it is ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                3,
+                3,
+                3,
+                1,
+                5,
+                4,
+                3,
+                3
+            ]
+        },
+        "context": "That's for the phone calls you made from your room .\nCan I pay with traveller's cheques ?",
+        "dialogue_id": "dailydialog-grade-173",
+        "model_name": "transformer_ranker",
+        "response": "No , there's no charge for those ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                4,
+                3,
+                2,
+                1,
+                2,
+                1,
+                4,
+                3
+            ]
+        },
+        "context": "Yes , I have been working in the Public Relations Section of a company in the past two years . I plan the advertising campaign and cooperate the work of artists and typographers . Sometimes I have to do the work of a specialist when there's something urgent .\nDo you have any practical experience as a secretary ?",
+        "dialogue_id": "dailydialog-grade-174",
+        "model_name": "transformer_ranker",
+        "response": "First , I worked as a servant ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                5,
+                4,
+                4,
+                5,
+                3,
+                5,
+                5,
+                4
+            ]
+        },
+        "context": "How long will the induction training be ?\nAbout two weeks .",
+        "dialogue_id": "dailydialog-grade-175",
+        "model_name": "transformer_ranker",
+        "response": "Is the training center helpful ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                2,
+                3,
+                4,
+                3,
+                2,
+                4,
+                4,
+                4
+            ]
+        },
+        "context": "Yeah , about .\nDo you know Chinese better now ?",
+        "dialogue_id": "dailydialog-grade-176",
+        "model_name": "transformer_ranker",
+        "response": "Just as usual , you know ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                3,
+                5,
+                3,
+                5,
+                5,
+                4,
+                5,
+                5
+            ]
+        },
+        "context": "Hum , Edward Norton , or something like that . Did you like him ?\nYes . He was excellent . They worked well together , don't you think ?",
+        "dialogue_id": "dailydialog-grade-177",
+        "model_name": "transformer_ranker",
+        "response": "Yes . He was excellent . They worked well together ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                3,
+                4,
+                5,
+                4,
+                3,
+                5,
+                4,
+                5,
+                5
+            ]
+        },
+        "context": "What sort of job would you like to take ?\nI prefer a sedentary job and I used to work as an operator .",
+        "dialogue_id": "dailydialog-grade-178",
+        "model_name": "transformer_ranker",
+        "response": "How ' d you get that job ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                3,
+                5,
+                2,
+                4,
+                5,
+                2,
+                5,
+                5
+            ]
+        },
+        "context": "Yes , I'd like a book about law .\nWould you tell me the name of the book and the author ?",
+        "dialogue_id": "dailydialog-grade-179",
+        "model_name": "transformer_ranker",
+        "response": "Let me give you a hand . The author is ..."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                5,
+                5,
+                5,
+                5,
+                3,
+                2,
+                5,
+                3
+            ]
+        },
+        "context": "I like the sound of that .\nYes , that is today's sale price .",
+        "dialogue_id": "dailydialog-grade-180",
+        "model_name": "transformer_ranker",
+        "response": "Well , the sale price is $ 1 each ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                3,
+                1,
+                3,
+                4,
+                3,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "Good morning .\nWhat does the paper say ?",
+        "dialogue_id": "dailydialog-grade-181",
+        "model_name": "transformer_ranker",
+        "response": "It's 5:30 by my watch ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                1,
+                3,
+                5,
+                2,
+                5,
+                4,
+                4
+            ]
+        },
+        "context": "All right , can I have your passbook ?\nYes , here you go .",
+        "dialogue_id": "dailydialog-grade-182",
+        "model_name": "transformer_ranker",
+        "response": "All right . Now can I have your passbook ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                3,
+                1,
+                3,
+                5,
+                2,
+                5,
+                4,
+                4
+            ]
+        },
+        "context": "I'm very sorry to hear that . May I have your name and room number , please ?\nYes , it's Yao Lan . Room 406 .",
+        "dialogue_id": "dailydialog-grade-183",
+        "model_name": "transformer_ranker",
+        "response": "Mr . Lee in Room 1234 ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                1,
+                2,
+                3,
+                4,
+                4,
+                4,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "I should tell you that I'm checking out in about 30 minutes .\nI'm ready when you are , sir .",
+        "dialogue_id": "dailydialog-grade-184",
+        "model_name": "transformer_ranker",
+        "response": "Please put your luggage outside your room by eight . The bellboy will pick them up ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                4,
+                3,
+                5,
+                4,
+                2,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "Hello ! How do I get more amenities ?\nI'm sorry , sir . I'm not sure I understand .",
+        "dialogue_id": "dailydialog-grade-185",
+        "model_name": "transformer_ranker",
+        "response": "I'm losing you , sir . What's the problem ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                4,
+                2,
+                4,
+                5,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "And they will yell back at you .\nYelling doesn't do any good .",
+        "dialogue_id": "dailydialog-grade-186",
+        "model_name": "transformer_ranker",
+        "response": "I'm happy to help ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                3,
+                2,
+                5,
+                4,
+                3,
+                5,
+                5
+            ]
+        },
+        "context": "The traffic is not very heavy on this high way , is it ? So I'm sure we'll make it .\nNo , but we'Ve got a hurry . It will be the rush hour soon .",
+        "dialogue_id": "dailydialog-grade-187",
+        "model_name": "transformer_ranker",
+        "response": "We'll have to hurry ; visiting hours will be over soon"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                4,
+                5,
+                3,
+                4,
+                1,
+                4,
+                2,
+                5
+            ]
+        },
+        "context": "What style do you want ?\nI want to buy a V-neck checked sweater , and it should be tight .",
+        "dialogue_id": "dailydialog-grade-188",
+        "model_name": "transformer_ranker",
+        "response": "It doesn't fit quite right . It feels a little tight in the waist . Do you have this in a larger size ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                4,
+                5,
+                3,
+                5,
+                5,
+                4,
+                5,
+                5
+            ]
+        },
+        "context": "Mr . Smith , please .\nSorry , he is out .",
+        "dialogue_id": "dailydialog-grade-189",
+        "model_name": "transformer_ranker",
+        "response": "Could you leave him a message ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                3,
+                4,
+                1,
+                4,
+                2,
+                5,
+                4,
+                4
+            ]
+        },
+        "context": "Surely of course .\nHere is the film . Can I get my pictures tomorrow ?",
+        "dialogue_id": "dailydialog-grade-190",
+        "model_name": "transformer_ranker",
+        "response": "Yes , give me two rolls of Kodak color film ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                3,
+                4,
+                1,
+                4,
+                4,
+                3,
+                4,
+                5
+            ]
+        },
+        "context": "I need to stay home tonight and finish my term paper .\nOK . What about going to the movies on Friday night ?",
+        "dialogue_id": "dailydialog-grade-191",
+        "model_name": "transformer_ranker",
+        "response": "I ' d love to but I have to help John with his math problems right now ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                4,
+                1,
+                2,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "Let me check . Yes , we have .\nMay I try it on ?",
+        "dialogue_id": "dailydialog-grade-192",
+        "model_name": "transformer_ranker",
+        "response": "You'd like it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                3,
+                3,
+                1,
+                4,
+                2,
+                4,
+                2,
+                3
+            ]
+        },
+        "context": "And they're very dear , too .\nThey're on special offer today .",
+        "dialogue_id": "dailydialog-grade-193",
+        "model_name": "transformer_ranker",
+        "response": "I wonder if they left it sitting around too long before they served it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                2,
+                4,
+                1,
+                2,
+                4,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "You can't come any earlier than that ?\nI'm sorry . That's the only available time .",
+        "dialogue_id": "dailydialog-grade-194",
+        "model_name": "transformer_ranker",
+        "response": "I can't catch the bus with you anymore ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                5,
+                2,
+                5,
+                1,
+                3,
+                5,
+                5,
+                4
+            ]
+        },
+        "context": "Hello .\nHi . It's Tony calling from the dentist's office . Is Lily there ?",
+        "dialogue_id": "dailydialog-grade-195",
+        "model_name": "transformer_ranker",
+        "response": "Yes , It's John eng ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                2,
+                2,
+                3,
+                1,
+                3,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "Excuse me . I have an appointment with Mr . Li at nine . May I come in ?\nYes , come in please . I am Mr . Li . You must be My Liu , right ?",
+        "dialogue_id": "dailydialog-grade-196",
+        "model_name": "transformer_ranker",
+        "response": "I'm sorry , but he's not in the office now . Do you have an appointment ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                2,
+                2,
+                3,
+                1,
+                3,
+                3,
+                5,
+                3
+            ]
+        },
+        "context": "You need a babysitter .\nYes , I'd ask Jill , the girl I've had before , but I need someone overnight . Maybe even for two nights .",
+        "dialogue_id": "dailydialog-grade-197",
+        "model_name": "transformer_ranker",
+        "response": "You need a babysitter ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                2,
+                3,
+                3,
+                1,
+                3,
+                5,
+                3,
+                3
+            ]
+        },
+        "context": "What is it ? What happened ?\nI think someone is stalking me .",
+        "dialogue_id": "dailydialog-grade-198",
+        "model_name": "transformer_ranker",
+        "response": "No . Really , what happened ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                5,
+                2,
+                3,
+                1,
+                2,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "What is it used for ? I mean , why bother to get this special account ?\nGroup companies can use this to make their arrangement of funds flexible , when dealing with their subsidiaries .",
+        "dialogue_id": "dailydialog-grade-199",
+        "model_name": "transformer_ranker",
+        "response": "What kind of action is required ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                2,
+                4,
+                1,
+                2,
+                2,
+                5,
+                1,
+                2
+            ]
+        },
+        "context": "The boss wanted to pay Bob with stock options . But Bob didn't want to play that game again .\nAgain ?",
+        "dialogue_id": "dailydialog-grade-200",
+        "model_name": "transformer_ranker",
+        "response": "It's only seven minutes into the game , too early to cheer up ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                3,
+                4,
+                4,
+                5,
+                5,
+                4,
+                1,
+                4
+            ]
+        },
+        "context": "Shall we drop in somewhere for a couple of drinks ?\nThat sounds like a good idea .",
+        "dialogue_id": "dailydialog-grade-201",
+        "model_name": "transformer_ranker",
+        "response": "OK . Shall we go to a bar ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                4,
+                1,
+                2,
+                2,
+                3,
+                1,
+                1
+            ]
+        },
+        "context": "Ah , some products are successful at home , but not be popular overseas .\nThat's because the fashion , taste and social customs and so on vary considerably .",
+        "dialogue_id": "dailydialog-grade-202",
+        "model_name": "transformer_ranker",
+        "response": "Well I guess you have fewer characters but I think Chinese grammar is easier ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                3,
+                2,
+                2,
+                5,
+                5,
+                4,
+                3,
+                1,
+                4
+            ]
+        },
+        "context": "How can you be so sure ?\nI can tell form the way he spoke to us .",
+        "dialogue_id": "dailydialog-grade-203",
+        "model_name": "transformer_ranker",
+        "response": "That doesn ' t make any sense ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                3,
+                3,
+                2,
+                2,
+                5,
+                2,
+                1,
+                1
+            ]
+        },
+        "context": "You know , I fell in love with this house the first moment I laid eyes on it .\nThe style of the exterior is just what I'Ve been looking for !",
+        "dialogue_id": "dailydialog-grade-204",
+        "model_name": "transformer_ranker",
+        "response": "Well could you do me the favor of making this quick ? It ' s the third quarter and you ' Ve been blabbering on since the first !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                5,
+                5,
+                3,
+                2,
+                3,
+                2,
+                4
+            ]
+        },
+        "context": "I want to go traveling .\nDo you have any where in mind ?",
+        "dialogue_id": "dailydialog-grade-205",
+        "model_name": "transformer_ranker",
+        "response": "There are student passes ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                2,
+                2,
+                5,
+                5,
+                5,
+                4,
+                4,
+                2
+            ]
+        },
+        "context": "Not bad .\nSay I've got two tickets for the concert this evening . Would you like to come with me ?",
+        "dialogue_id": "dailydialog-grade-206",
+        "model_name": "transformer_ranker",
+        "response": "Oh , I'd rather not ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                3,
+                5,
+                2,
+                2,
+                2,
+                2,
+                4
+            ]
+        },
+        "context": "With everything , with everybody , with all this !\nA good suggestion for you . You need a holiday .",
+        "dialogue_id": "dailydialog-grade-207",
+        "model_name": "transformer_ranker",
+        "response": "A good suggestion for you . You need a holiday ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                4,
+                4,
+                5,
+                4,
+                4,
+                4,
+                3,
+                3
+            ]
+        },
+        "context": "Good afternoon . I come here specially to pick up my tickets . I booked it last month . This is my reservation note .\nI am terribly sorry . You didn't come to reconfirm recently . You should have come to pick up your ticket three days ago since it's an international flight , any reservation without reconfirmation within 72 hours will be cancelled .",
+        "dialogue_id": "dailydialog-grade-208",
+        "model_name": "transformer_ranker",
+        "response": "I understand . So that ' s one ticket to New York , and you ' ll be departing tonight . Will that be one-way or round trip ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                3,
+                4,
+                2,
+                1,
+                4,
+                2,
+                3
+            ]
+        },
+        "context": "Are these the clothes you want to have washed ?\nYes . When can I get them back ?",
+        "dialogue_id": "dailydialog-grade-209",
+        "model_name": "transformer_ranker",
+        "response": "Or maybe make the beds ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                5,
+                1,
+                4,
+                5,
+                1,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "Exactly ! I searched on the web and found a couple of HMO's with low co-pays and good coverage . The deductibles are low , too .\nSounds good , although , do you think we can qualify for insurance ? Those insurance companies are real pirates when it comes to money .",
+        "dialogue_id": "dailydialog-grade-210",
+        "model_name": "transformer_ranker",
+        "response": "Exactly ! I searched on the web and found a couple of HMO ' s with low co-pays and good coverage . The deductibles are low , too ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                4,
+                1,
+                3,
+                3,
+                1,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "Then tell me something about your background .\nMy major was computer science when I was at college , and I am quite familiar with Visual C + + and Java language .",
+        "dialogue_id": "dailydialog-grade-211",
+        "model_name": "transformer_ranker",
+        "response": "What are you basing this information on ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                4,
+                2,
+                4,
+                2,
+                1,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "Hi . What's your name ?\nMy name is Jung Min . What's your name ?",
+        "dialogue_id": "dailydialog-grade-212",
+        "model_name": "transformer_ranker",
+        "response": "I'm an engineer at IBM ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                3,
+                3,
+                3,
+                3,
+                5,
+                5,
+                4,
+                5
+            ]
+        },
+        "context": "Great ! B , most of the items listed are available this year . I hope we can come to an agreement and sign the contracts , so as to enable our timely delivery .\nThat sounds good . But I have a proposal now .",
+        "dialogue_id": "dailydialog-grade-213",
+        "model_name": "transformer_ranker",
+        "response": "It seems this is the only proposal for me to accept . I ' ll come again tomorrow to discuss it in detail ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                2,
+                1,
+                3,
+                3,
+                1,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "Why don't you watch where you're going ?\nMe ? You're the one who pulled out in front of me !",
+        "dialogue_id": "dailydialog-grade-214",
+        "model_name": "transformer_ranker",
+        "response": "Me ? You're the one who pulled out in front of me !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                1,
+                4,
+                3,
+                2,
+                5,
+                4,
+                5,
+                2,
+                1
+            ]
+        },
+        "context": "How much is that one ?\nIt's two hundred and eighty dollars .",
+        "dialogue_id": "dailydialog-grade-215",
+        "model_name": "transformer_ranker",
+        "response": "That's 20 dollars . Keep the change !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                3,
+                2,
+                2,
+                2,
+                3,
+                2,
+                3,
+                1
+            ]
+        },
+        "context": "I need to book a plane ticket to London .\nRound-trip or one-way ?",
+        "dialogue_id": "dailydialog-grade-216",
+        "model_name": "transformer_ranker",
+        "response": "Round trip or one way trip ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                1,
+                3,
+                4,
+                4,
+                3,
+                5,
+                3,
+                3,
+                1
+            ]
+        },
+        "context": "I don't know . But this is definitely the last straw .\nMaybe you should start seeing someone else .",
+        "dialogue_id": "dailydialog-grade-217",
+        "model_name": "transformer_ranker",
+        "response": "Yes . It could happen ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                5,
+                3,
+                3,
+                3,
+                5,
+                2,
+                5,
+                1
+            ]
+        },
+        "context": "Oh , I know a place where you might like to eat .\nIs it close by ?",
+        "dialogue_id": "dailydialog-grade-218",
+        "model_name": "transformer_ranker",
+        "response": "No , it's not far ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                3,
+                3,
+                2,
+                4,
+                2,
+                4,
+                2,
+                1
+            ]
+        },
+        "context": "That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?\nIt's all the way to the back . See that yellow door ?",
+        "dialogue_id": "dailydialog-grade-219",
+        "model_name": "transformer_ranker",
+        "response": "It's all the way to the back . See that yellow door ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                5,
+                1,
+                2,
+                1,
+                5,
+                2,
+                4
+            ]
+        },
+        "context": "I think that's just steam . Your engine's overheated .\nDo you know a lot about cars ?",
+        "dialogue_id": "dailydialog-grade-220",
+        "model_name": "transformer_ranker",
+        "response": "I usually only have 2 beers ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                2,
+                1,
+                3,
+                2,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "Sorry . I was too worried .\nI firmly believe that you love your brother very much .",
+        "dialogue_id": "dailydialog-grade-221",
+        "model_name": "transformer_ranker",
+        "response": "But I want you to be fit ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                5,
+                4,
+                1,
+                3,
+                1,
+                4,
+                2,
+                3
+            ]
+        },
+        "context": "Not really . I don't think pop music has much depth .\nI see what you mean . I think that's way I like it so much .",
+        "dialogue_id": "dailydialog-grade-222",
+        "model_name": "transformer_ranker",
+        "response": "not really . I don't think pop music has much depth ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                2,
+                2,
+                1,
+                2,
+                2,
+                3,
+                5,
+                5
+            ]
+        },
+        "context": "Fine . I'll take the compact .\nAlright . We have a blue Ford Focus for you , Mr . Fox . Would you like insurance ?",
+        "dialogue_id": "dailydialog-grade-223",
+        "model_name": "transformer_ranker",
+        "response": "Yes , I do . Do you accept American Express ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                2,
+                4,
+                1,
+                4,
+                1,
+                4,
+                2,
+                4
+            ]
+        },
+        "context": "Um , ninety-five dollars ?\nYes , that's the price they were advertising it at . I was hoping it might go on sale soon . Why , how much did you pay for it ?",
+        "dialogue_id": "dailydialog-grade-224",
+        "model_name": "transformer_ranker",
+        "response": "The price of CPU is 260 dollars above 1,000 Units ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                4,
+                2,
+                2,
+                5,
+                3,
+                5,
+                3,
+                2
+            ]
+        },
+        "context": "I went to Salt Lake City on business . What's up ?\nI got fired .",
+        "dialogue_id": "dailydialog-grade-225",
+        "model_name": "transformer_ranker",
+        "response": "Come on . Don ' t hesitate ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                4,
+                3,
+                5,
+                4,
+                5,
+                3,
+                4,
+                2
+            ]
+        },
+        "context": "Really ? Wow with who ?\nThis girl I've been chatting with for the past couple of months . She's really cool and she's driving over here this weekend .",
+        "dialogue_id": "dailydialog-grade-226",
+        "model_name": "transformer_ranker",
+        "response": "Really ? That's really wonderful . I'm so happy for her ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                2,
+                2,
+                4,
+                2,
+                3,
+                3,
+                3,
+                4
+            ]
+        },
+        "context": "Why aren't you eating anything else ?\nWell , fruits and vegetables are very healthy .",
+        "dialogue_id": "dailydialog-grade-227",
+        "model_name": "transformer_ranker",
+        "response": "And vegetables with porridge ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                5,
+                4,
+                2,
+                2,
+                5,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "Lucky you ! I can't buy anything else . I'm flat broke .\nI got a replace my party outfit , I trashed it last week .",
+        "dialogue_id": "dailydialog-grade-228",
+        "model_name": "transformer_ranker",
+        "response": "yeah , maybe you ' re right . How about this outfit ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                3,
+                3,
+                3,
+                5,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "It is an exhibition of Chinese jades . It is held each year . A nice collection jades of are on display and sold .\nSounds great ! Can you stop somewhere here for a minute ? I will get some souvenirs for my friends .",
+        "dialogue_id": "dailydialog-grade-229",
+        "model_name": "transformer_ranker",
+        "response": "We share the same desire . Have you seen the display of our products in the exhibition hall downstairs ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                4,
+                5,
+                4,
+                4,
+                5,
+                5,
+                1,
+                2
+            ]
+        },
+        "context": "Have you ever tried shopping online ?\nNo , never . I prefer to actually see and touch what I'm buying before I pay for it , especially for clothes and shoes .",
+        "dialogue_id": "dailydialog-grade-230",
+        "model_name": "transformer_ranker",
+        "response": "Why don't you go shopping online ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                3,
+                5,
+                5,
+                2,
+                3,
+                2,
+                1,
+                2
+            ]
+        },
+        "context": "How nice of him . I'll be delighted to go . But what time would be convenient ?\nIf you could be ready by , say 6:30 o'clock , I'll be at the hotel to pick you up .",
+        "dialogue_id": "dailydialog-grade-231",
+        "model_name": "transformer_ranker",
+        "response": "That's fine . I'll be waiting for you ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                4,
+                5,
+                5,
+                4,
+                3,
+                4,
+                1,
+                2
+            ]
+        },
+        "context": "Barely . Will you be checking any luggage today ?\nYes , One suitcase . I also have a carry-on bag .",
+        "dialogue_id": "dailydialog-grade-232",
+        "model_name": "transformer_ranker",
+        "response": "Are you keeping this small bag as carry-on luggage , sir ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                4,
+                2,
+                2,
+                3,
+                4,
+                3,
+                1,
+                5
+            ]
+        },
+        "context": "I'm Du Juan , in Room 312 .\nI see . Wait in the room , please .",
+        "dialogue_id": "dailydialog-grade-233",
+        "model_name": "transformer_ranker",
+        "response": "Could I have your name and room number ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                3,
+                5,
+                4,
+                2,
+                2,
+                3,
+                1,
+                2
+            ]
+        },
+        "context": "What do you feel about gay marriage ?\nI think everyone has the right to love who they want .",
+        "dialogue_id": "dailydialog-grade-234",
+        "model_name": "transformer_ranker",
+        "response": "Would you make gay marriage legal ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                1,
+                2,
+                1,
+                1,
+                3,
+                5,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "The bartender just gave the last call . Let's order another round , okay ?\nSure , but let's get a pitcher this time We should be able to down it before they close .",
+        "dialogue_id": "dailydialog-grade-235",
+        "model_name": "transformer_ranker",
+        "response": "The bartender just gave the last call . Let's order another round , okay ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                5,
+                2,
+                1,
+                5,
+                3,
+                3,
+                2,
+                5
+            ]
+        },
+        "context": "How do you do ? Please be seated , How is your trip here ?\nQuite good , I think . I came here by bus , and it took me about 15 minutes .",
+        "dialogue_id": "dailydialog-grade-236",
+        "model_name": "transformer_ranker",
+        "response": "Wow , thanks a lot ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                1,
+                2,
+                2,
+                1,
+                3,
+                3,
+                4,
+                3,
+                5
+            ]
+        },
+        "context": "Does the class start again , Mam ?\nYes , but to the heath , this break has long enough .",
+        "dialogue_id": "dailydialog-grade-237",
+        "model_name": "transformer_ranker",
+        "response": "Yes , I mean it ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                5,
+                1,
+                1,
+                5,
+                2,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "Sure ! Are you okay ? You seem a bit worried . What's on your mind ?\nWe need to talk .",
+        "dialogue_id": "dailydialog-grade-238",
+        "model_name": "transformer_ranker",
+        "response": "We need to talk ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                5,
+                5,
+                1,
+                2,
+                5,
+                3,
+                4,
+                5
+            ]
+        },
+        "context": "Good afternoon ! Trans Pacific Airline . How can I help you ?\nI'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?",
+        "dialogue_id": "dailydialog-grade-239",
+        "model_name": "transformer_ranker",
+        "response": "Yes there are . How do you want to go , First class or coach ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                3,
+                5,
+                1,
+                3,
+                2,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "Have I got a high fever ?\nYes , thirty-eight point seven . Do you have a headache , chest or throat pain ?",
+        "dialogue_id": "dailydialog-grade-240",
+        "model_name": "transformer_ranker",
+        "response": "No , but I have a low fever ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                3,
+                2,
+                1,
+                5,
+                5,
+                1,
+                4,
+                3
+            ]
+        },
+        "context": "That one truly is a beautiful piece of work , isn't it ?\nOne last question",
+        "dialogue_id": "dailydialog-grade-241",
+        "model_name": "transformer_ranker",
+        "response": "It's fashionable ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                2,
+                2,
+                3,
+                1,
+                3,
+                4,
+                5,
+                2,
+                3
+            ]
+        },
+        "context": "You'll need to make an appointment .\nCould I do that right now , please ?",
+        "dialogue_id": "dailydialog-grade-242",
+        "model_name": "transformer_ranker",
+        "response": "You need an appointment ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                2,
+                1,
+                2,
+                4,
+                1,
+                2,
+                1
+            ]
+        },
+        "context": "You get your bus pass ?\nI'm not going to buy one .",
+        "dialogue_id": "dailydialog-grade-243",
+        "model_name": "transformer_ranker",
+        "response": "Is it fun driving the bus ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                1,
+                3,
+                1,
+                2,
+                2,
+                1,
+                4,
+                3
+            ]
+        },
+        "context": "You're made a good choice . This china tea set is unusual .\nWhere was it from ?",
+        "dialogue_id": "dailydialog-grade-244",
+        "model_name": "transformer_ranker",
+        "response": "Tea and silk ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                2,
+                1,
+                2,
+                2,
+                5,
+                2,
+                3,
+                5
+            ]
+        },
+        "context": "Well , you should come this weekend . I think you could do the climb .\nYeah , I will . See you then !",
+        "dialogue_id": "dailydialog-grade-245",
+        "model_name": "transformer_ranker",
+        "response": "Well , you should come this weekend . I think you could do the climb ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                2,
+                1,
+                3,
+                4,
+                5,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "Let me guess , from Sarah . It looks like something she would drive .\nYou guessed right . Besides , the color violet is a little girly for me .",
+        "dialogue_id": "dailydialog-grade-246",
+        "model_name": "transformer_ranker",
+        "response": "You guessed right . Besides , the color violet is a little girly for me ..."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                2,
+                1,
+                5,
+                4,
+                5,
+                3,
+                4,
+                3
+            ]
+        },
+        "context": "Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .\nIt's nice to meet you , Mr . Cooper .",
+        "dialogue_id": "dailydialog-grade-247",
+        "model_name": "transformer_ranker",
+        "response": "It's nice to meet you , Mr . Cooper ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                1,
+                2,
+                1,
+                2,
+                4,
+                3,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "Have you ever listened to AM radio ? It's quite a different experience than the traditional news stations on TV and FM radio .\nI don't remember the last time I listened to AM radio .",
+        "dialogue_id": "dailydialog-grade-248",
+        "model_name": "transformer_ranker",
+        "response": "Are you kidding ? Don't you know I can't swim ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                1,
+                5,
+                1,
+                2,
+                2,
+                5,
+                5,
+                3,
+                3
+            ]
+        },
+        "context": "It is too bad today .\nWhat happened ?",
+        "dialogue_id": "dailydialog-grade-249",
+        "model_name": "transformer_ranker",
+        "response": "It ' s been leaking for a couple of days now ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                2,
+                4,
+                1,
+                3,
+                3,
+                5,
+                5,
+                2
+            ]
+        },
+        "context": "Hey Tina . What are you doing ?\nI was just watching TV . What's going on with you ?",
+        "dialogue_id": "dailydialog-grade-250",
+        "model_name": "transformer_ranker",
+        "response": "I'm watching TV ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                3,
+                1,
+                2,
+                4,
+                4,
+                3,
+                2
+            ]
+        },
+        "context": "Here's my name card .\nAnd here's mine .",
+        "dialogue_id": "dailydialog-grade-251",
+        "model_name": "transformer_ranker",
+        "response": "It's all yours ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                2,
+                4,
+                1,
+                1,
+                4,
+                5,
+                4,
+                2
+            ]
+        },
+        "context": "Thank you ! Would you like an aisle seat or a window seat ?\nAn aisle seat , please . I'm tall and need to get up and walk pretty often .",
+        "dialogue_id": "dailydialog-grade-252",
+        "model_name": "transformer_ranker",
+        "response": "Anything but a center seat is fine with me . The middle seat drives me crazy !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                5,
+                3,
+                1,
+                3,
+                2,
+                2,
+                3,
+                2
+            ]
+        },
+        "context": "Why doesn't he ask her ?\nHe is too scared to ask her .",
+        "dialogue_id": "dailydialog-grade-253",
+        "model_name": "transformer_ranker",
+        "response": "He is too scared to ask her ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                5,
+                5,
+                1,
+                3,
+                4,
+                5,
+                2,
+                5
+            ]
+        },
+        "context": "What if I don't want to find another girl ?\nYou'll change your mind . Look at everyone in the world . They all break up and move on . The faster you understand this , the quicker you will recover .",
+        "dialogue_id": "dailydialog-grade-254",
+        "model_name": "transformer_ranker",
+        "response": "Right . Thanks ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                3,
+                5,
+                2,
+                5,
+                1,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "I'd like to speak Dr . Johnson .\nSorry , but he's not in . May I take a message for you ?",
+        "dialogue_id": "dailydialog-grade-255",
+        "model_name": "transformer_ranker",
+        "response": "Yes . He's waiting for you in his office . This way , please ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                2,
+                4,
+                3,
+                1,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "Well , known , Jim , I'm  .  .  .  I'm pretty much in favour of your computers , I think computers teach kids to think , because they require logical thoughts .\nBut I  .  .  .  I don't agree with thatbecause computers weaken kids'ability to thinkbecause kids don't learn basic skills .",
+        "dialogue_id": "dailydialog-grade-256",
+        "model_name": "transformer_ranker",
+        "response": "But I ... I don't agree with that , because computers weaken kids ' ability to think , because kids don't learn basic skills ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                4,
+                4,
+                5,
+                4,
+                4,
+                1,
+                2,
+                4,
+                2
+            ]
+        },
+        "context": "I have a lot of luggage . Will those fit in the taxi ?\nTake it easy . I'll send a larger to pick you up .",
+        "dialogue_id": "dailydialog-grade-257",
+        "model_name": "transformer_ranker",
+        "response": "By the way , don't forget your luggage on the ship ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                2,
+                3,
+                3,
+                1,
+                4,
+                2,
+                1
+            ]
+        },
+        "context": "Anyway , the show is breathtaking . By the way , where did they get so much snow here ?\nWell , they have the most advanced snowmaking machine .",
+        "dialogue_id": "dailydialog-grade-258",
+        "model_name": "transformer_ranker",
+        "response": "No way , if it still has 21 ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                4,
+                2,
+                2,
+                2,
+                3,
+                1,
+                5,
+                3,
+                1
+            ]
+        },
+        "context": "Nothing , Mummy . I was hungry so I came here for some milk .\nMilk ? I thought you didn't like milk .",
+        "dialogue_id": "dailydialog-grade-259",
+        "model_name": "transformer_ranker",
+        "response": "Why don't you get a new one ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                3,
+                1,
+                5,
+                5,
+                2,
+                2,
+                5,
+                5,
+                4
+            ]
+        },
+        "context": "Please be at the airport two hours before your departure to check in . You also need to reconfirm your reservation with the airline at least 7 days prior to your departure .\nWhat happens if I can't leave on April 13 ? Can I cancel my ticket or change the reservation to another date ?",
+        "dialogue_id": "dailydialog-grade-260",
+        "model_name": "transformer_ranker",
+        "response": "I think so . I won't forget anything important . As long as I have my passport , VISA card and airline ticket . It will be OK ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                1,
+                4,
+                2,
+                5,
+                5,
+                5,
+                5,
+                2
+            ]
+        },
+        "context": "Thank you for your inition . I'm free tonight .\nWhich kind of food do you like , chinese food , western food or sea food ?",
+        "dialogue_id": "dailydialog-grade-261",
+        "model_name": "transformer_ranker",
+        "response": "Chinese food ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                1,
+                3,
+                3,
+                2,
+                2,
+                2,
+                3,
+                3
+            ]
+        },
+        "context": "Yes . There have been a few there recently . They say that this one was not a big quake . The Iranians are dealing with it on their own . They have purchased some special equipment to find people buried u\nDoes the newspaper say anything about casualties ?",
+        "dialogue_id": "dailydialog-grade-262",
+        "model_name": "transformer_ranker",
+        "response": "Moving to to Latin American , Ecuador has suffered a six month drought that has not only affected farming , but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country . In Chile , a major earthquake that registered seven point five on the Richter scale struck the southern region . Losses are reported to be in the billions . Authorities have not yet released an official statement ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                3,
+                1,
+                3,
+                4,
+                2,
+                5,
+                5,
+                3,
+                4
+            ]
+        },
+        "context": "Turn on the TV for what ?\nSo that we can sit down together and listen to some music .",
+        "dialogue_id": "dailydialog-grade-263",
+        "model_name": "transformer_ranker",
+        "response": "So that we can sit down together and listen to some music ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                1,
+                3,
+                2,
+                3,
+                2,
+                4,
+                3,
+                3
+            ]
+        },
+        "context": "Yes , I'd like a glass of iced tea .\nOkay . I'll be back in a minute with your drink and salad .",
+        "dialogue_id": "dailydialog-grade-264",
+        "model_name": "transformer_ranker",
+        "response": "All right . And would you like a salad ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                3,
+                2,
+                5,
+                5,
+                4,
+                3,
+                3,
+                5
+            ]
+        },
+        "context": "Wait a moment , please . Let me check it .\nBy the way , I want a large room .",
+        "dialogue_id": "dailydialog-grade-265",
+        "model_name": "transformer_ranker",
+        "response": "By the way , what's the rate for a single room ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "It was alright . I ran into Bill and we got to talking for a while . He's in a bit of a jam .\nWhy ? What happened ?",
+        "dialogue_id": "dailydialog-grade-266",
+        "model_name": "transformer_ranker",
+        "response": "It was alright . I ran into Bill and we got to talking for a while . He ' s in a bit of a jam ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                1,
+                2,
+                4,
+                3,
+                2,
+                2,
+                2,
+                5
+            ]
+        },
+        "context": "Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .\nI'm sure . Okay , now let's move on to your work experience , shall we ?",
+        "dialogue_id": "dailydialog-grade-267",
+        "model_name": "transformer_ranker",
+        "response": "Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                5,
+                5,
+                3,
+                3,
+                2,
+                2,
+                5,
+                5
+            ]
+        },
+        "context": "Thank God ! I am finished writing that service guide ! It took me forever !\nWhen did you finish ?",
+        "dialogue_id": "dailydialog-grade-268",
+        "model_name": "transformer_ranker",
+        "response": "About 2 o ' clock ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                3,
+                4,
+                5,
+                3,
+                3,
+                3,
+                5
+            ]
+        },
+        "context": "What's the matter , John ? you seemed to be restless today .\nYou see , I've been offered a new job . I can't decide whether to take it or not .",
+        "dialogue_id": "dailydialog-grade-269",
+        "model_name": "transformer_ranker",
+        "response": "But I don't know what else I can do . I am willing to work hard . Sometimes I make mistakes and the boss is not happy ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                1,
+                2,
+                3,
+                5,
+                3,
+                5,
+                2,
+                2
+            ]
+        },
+        "context": "Look ! Mom , that's amazing ! I can't believe the girls have so neat movements .\nYeah , they all received very strict training . A minute on the stage takes ten-year practice .",
+        "dialogue_id": "dailydialog-grade-270",
+        "model_name": "transformer_ranker",
+        "response": "Tell me ! Tell me ! What's your secret ? !"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                2,
+                1,
+                1,
+                3,
+                3,
+                3,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "Thank you .\nWhat was your major in school ?",
+        "dialogue_id": "dailydialog-grade-271",
+        "model_name": "transformer_ranker",
+        "response": "I ' m going back to college ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                1,
+                3,
+                2,
+                2,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "I didn't just find out about one job . There were several ones that looked good .\nMaybe I should try looking on the web for work .",
+        "dialogue_id": "dailydialog-grade-272",
+        "model_name": "transformer_ranker",
+        "response": "It seems that you can e-mail the seller and ask questions ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                3,
+                3,
+                2,
+                2,
+                3,
+                5,
+                3
+            ]
+        },
+        "context": "Good afternoon ! Trans Pacific Airline . How can I help you ?\nI'm calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?",
+        "dialogue_id": "dailydialog-grade-273",
+        "model_name": "transformer_ranker",
+        "response": "Yes there are . How do you want to go , First class or coach ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                1,
+                3,
+                5,
+                3,
+                3,
+                3,
+                5,
+                2
+            ]
+        },
+        "context": "The washer costs 50 cents and the dryer costs a dollar .\nWhere do I put the change ?",
+        "dialogue_id": "dailydialog-grade-274",
+        "model_name": "transformer_ranker",
+        "response": "You need to put 50 cents into the washer machine and a dollar into the dryer ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                4,
+                5,
+                2,
+                2,
+                2,
+                5,
+                1,
+                1
+            ]
+        },
+        "context": "I see . We will go the day after tomorrow .\nBy the way , what kind of stores do we need to go ?",
+        "dialogue_id": "dailydialog-grade-275",
+        "model_name": "transformer_ranker",
+        "response": "Half an hours later ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                4,
+                3,
+                2,
+                2,
+                3,
+                4,
+                1,
+                2
+            ]
+        },
+        "context": "Heard what ?\nDeborah already had her baby .",
+        "dialogue_id": "dailydialog-grade-276",
+        "model_name": "transformer_ranker",
+        "response": "You never guess she is going to have a baby ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                4,
+                5,
+                3,
+                4,
+                2,
+                5,
+                3,
+                1,
+                2
+            ]
+        },
+        "context": "I suppose I don't want that one then . I don't like auto-reverse . It breaks too easily .\nReally ? Have you had an auto-reverse break before ?",
+        "dialogue_id": "dailydialog-grade-277",
+        "model_name": "transformer_ranker",
+        "response": "Yes , this price is very affordable , but driving this car you'll also notice a significant annual saving in gas consumption . The main attraction for this model is the fuel economy ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                5,
+                3,
+                4,
+                5,
+                5,
+                3,
+                1,
+                5
+            ]
+        },
+        "context": "How much per night are we talking about ?\nEach night will be $ 308 .",
+        "dialogue_id": "dailydialog-grade-278",
+        "model_name": "transformer_ranker",
+        "response": "$ 308 a night ? That's a fair price ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                2,
+                3,
+                4,
+                4,
+                3,
+                5,
+                4,
+                1,
+                4
+            ]
+        },
+        "context": "This is Bill Burton from Milford Insurance , I'm calling in regards to our meeting next Tuesday .\nThank you , Mr . Burton . Can you please hold for a moment ? I'll check to see if she is available .",
+        "dialogue_id": "dailydialog-grade-279",
+        "model_name": "transformer_ranker",
+        "response": "All right . I ' ll call you back later ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                4,
+                2,
+                3,
+                1,
+                4,
+                5,
+                4,
+                4
+            ]
+        },
+        "context": "First of all , we'll design a custom-made work-out plan according to your habits .\nHow can you get that done ?",
+        "dialogue_id": "dailydialog-grade-280",
+        "model_name": "transformer_ranker",
+        "response": "About 2 days ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                4,
+                5,
+                2,
+                1,
+                3,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "You can touch them only between the shoulder and the knees .\nThe touchdown lines are there and there . OK , let's play !",
+        "dialogue_id": "dailydialog-grade-281",
+        "model_name": "transformer_ranker",
+        "response": "is that why my knees have felt sore after every time I've ridden my bike ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                4,
+                5,
+                5,
+                1,
+                3,
+                3,
+                5,
+                2
+            ]
+        },
+        "context": "I am not surprised , you eat too much .\nAnd I suppose sitting at the desk all day in the office doesn't help .",
+        "dialogue_id": "dailydialog-grade-282",
+        "model_name": "transformer_ranker",
+        "response": "No , I wouldn't think so ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                5,
+                5,
+                4,
+                5,
+                4,
+                1,
+                4,
+                4,
+                2,
+                4
+            ]
+        },
+        "context": "I would prefer next Thursday .\nWhat time would be best for you ?",
+        "dialogue_id": "dailydialog-grade-283",
+        "model_name": "transformer_ranker",
+        "response": "I would like to meet on Monday ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                2,
+                5,
+                3,
+                1,
+                3,
+                2,
+                2,
+                3
+            ]
+        },
+        "context": "Yes .\nWhat's the weather like in your country ?",
+        "dialogue_id": "dailydialog-grade-284",
+        "model_name": "transformer_ranker",
+        "response": "I love winter , I love snow ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                4,
+                5,
+                1,
+                5,
+                5,
+                2,
+                1
+            ]
+        },
+        "context": "Don't feel like it . I'm broke .\nWell , we can still do some window shopping , can we ?",
+        "dialogue_id": "dailydialog-grade-285",
+        "model_name": "transformer_ranker",
+        "response": "Well , we can still do some window shopping , can't we ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                4,
+                4,
+                3,
+                5,
+                2,
+                4,
+                4
+            ]
+        },
+        "context": "I Like pop music best . Classical music is a bit too heavy for me . I can't get fully relaxed in it .\nPop music doesn't have any depth for me .",
+        "dialogue_id": "dailydialog-grade-286",
+        "model_name": "transformer_ranker",
+        "response": "That is a perfect reason to like a certain kind of music ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                3,
+                1,
+                2,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "My appointment was on Monday .\nWhat time had you chosen ?",
+        "dialogue_id": "dailydialog-grade-287",
+        "model_name": "transformer_ranker",
+        "response": "It's Friday ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                5,
+                4,
+                3,
+                5,
+                1,
+                3,
+                5,
+                4
+            ]
+        },
+        "context": "No . I am a transit passenger going to Sweden .\nHow long are you going to stay here ?",
+        "dialogue_id": "dailydialog-grade-288",
+        "model_name": "transformer_ranker",
+        "response": "Only four days ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                1,
+                2,
+                2,
+                2,
+                1,
+                3,
+                3,
+                2,
+                1
+            ]
+        },
+        "context": "she said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .\nwow ! That's really great news . How often does the magazine come out ?",
+        "dialogue_id": "dailydialog-grade-289",
+        "model_name": "transformer_ranker",
+        "response": "She said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                4,
+                5,
+                1,
+                5,
+                5,
+                3,
+                1,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "Can't beat that ! Thank you accounting guy !\nThe game starts at seven so we'd better hustle , it's already five .",
+        "dialogue_id": "dailydialog-grade-290",
+        "model_name": "transformer_ranker",
+        "response": "You mean half-and-half ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                1,
+                2,
+                3,
+                2,
+                5,
+                5,
+                2,
+                4
+            ]
+        },
+        "context": "Of course you do . They are silly stories just for little kids like you .\nDon't call me kid . I am a grownup .",
+        "dialogue_id": "dailydialog-grade-291",
+        "model_name": "transformer_ranker",
+        "response": "Don't forger to come straight home after school ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                1,
+                3,
+                3,
+                3,
+                3,
+                5,
+                2,
+                4
+            ]
+        },
+        "context": "Not long , because people rush for lunch .\nThe line sure does move fast .",
+        "dialogue_id": "dailydialog-grade-292",
+        "model_name": "transformer_ranker",
+        "response": "What kind of lease is it ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                3,
+                5,
+                1,
+                4,
+                3,
+                5,
+                5,
+                2,
+                5,
+                2
+            ]
+        },
+        "context": "Bank of American card . The number is 6786 9182 12300 8657 .\nThank you ! Would you like an aisle seat or a window seat ?",
+        "dialogue_id": "dailydialog-grade-293",
+        "model_name": "transformer_ranker",
+        "response": "Aisle , please ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                5,
+                1,
+                3,
+                2,
+                3,
+                2,
+                5,
+                2,
+                4
+            ]
+        },
+        "context": "I'm forming a music band .\nDo you already know how to play an instrument ?",
+        "dialogue_id": "dailydialog-grade-294",
+        "model_name": "transformer_ranker",
+        "response": "Do you already know how to play an instrument ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                5,
+                3,
+                4,
+                4,
+                4,
+                2,
+                2,
+                2
+            ]
+        },
+        "context": "Morning , Michael . I'Ve been very busy lately . One of our other vendors is going out of business and I'Ve been searching for a suitable replacement .\nWell , rest assured that you can count on us to be here for the long run , sitdown . Coffee ?",
+        "dialogue_id": "dailydialog-grade-295",
+        "model_name": "transformer_ranker",
+        "response": "Well , rest assured that you can count on us to be here for the long run , please sit down . Coffee ?"
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                3,
+                3,
+                3,
+                4,
+                4,
+                3,
+                3,
+                2
+            ]
+        },
+        "context": "I am dying from the heat .\nTurn on the air conditioner .",
+        "dialogue_id": "dailydialog-grade-296",
+        "model_name": "transformer_ranker",
+        "response": "Let's stand in the line now ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                4,
+                1,
+                2,
+                2,
+                2,
+                4,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "That's how much this t . v costs .\nThat's too expensive for me .",
+        "dialogue_id": "dailydialog-grade-297",
+        "model_name": "transformer_ranker",
+        "response": "That's how much this t . v costs ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                2,
+                4,
+                3,
+                2,
+                2,
+                2,
+                1,
+                2,
+                2
+            ]
+        },
+        "context": "Have you seen this news article ? Apparently an organization has made a list to name the new seven wonders of the world and people could vote for them online .\nWow , that's really interesting . So who won ?",
+        "dialogue_id": "dailydialog-grade-298",
+        "model_name": "transformer_ranker",
+        "response": "Yeah , I had been in the charity organization for 2 months and I learned a lot from that experience , including love , sympathy , equality , and so on ."
+    },
+    {
+        "annotations": {
+            "relevance": [
+                2,
+                3,
+                3,
+                4,
+                3,
+                4,
+                3,
+                3,
+                2,
+                2
+            ]
+        },
+        "context": "Yes , smoking or non-smoking ?\nWe'd like a non-smoking table , please .",
+        "dialogue_id": "dailydialog-grade-299",
+        "model_name": "transformer_ranker",
+        "response": "Smoking or non-smoking ?"
+    }
+]
