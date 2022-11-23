@@ -17,9 +17,6 @@ def train(args, train_ctx, train_res, valid_ctx, valid_res, annos):
         valid_dataset = NUFDataset(valid_res, annos, maxlen=args.res_token_len)
         model = NUFScorer(args).to(device)
 
-    else:
-        raise Exception('Please select model from the following. VUP|NUP|MLM')
-
     train_dataloader = DataLoader(train_dataset, shuffle=True, batch_size=args.batch_size, num_workers=args.num_workers)
     valid_dataloader = DataLoader(valid_dataset, shuffle=False, batch_size=args.batch_size,num_workers=args.num_workers)
 
