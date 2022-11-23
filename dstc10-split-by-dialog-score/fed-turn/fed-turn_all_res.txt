@@ -1,0 +1,375 @@
+System: It's probably boring, isn't it?
+System: What is the meeting about?
+System: How pleasant?
+System: I listen to them through iTunes.
+System: Yeah, I just don't have the money for Spotify.
+System: Nah, don't worry about it!
+System: I think the capital of Brazil is called "Brasilia".
+System: Not that much more, no.
+System: We can talk about any subject here, as long as it's not about sex or swearing.
+System: No I'm not in school anymore
+System: I train and compete in horse vaulting
+System: Yeah some. enough to get by
+System: Sure, Taylor Swift sounds like a good topic.
+System: Taylor Swift...
+System: I did not want to hear that now
+System: I am chatting with clients on the internet.
+System: I've lost the context again.
+System: There's no need to apologise. Great. I am at one with the universe and I have more than I need.
+System: Currently unpacking it I guess. How's your morning?
+System: Where to?
+System: WOW. Which island? I like Hawaii.
+System: It's good, I just got back from walking my dog What book did you read?
+System: Yes!
+System: Woah! That is fascinating! I will have to pick up a copy of the book to read.
+System: That's nice, how was it?
+System: That's awesome, I haven't been to a beach in a while but I'd love to go again
+System: That's very cool, how long have you been doing it?
+System: Oh no! Get well soon! :)
+System: No kidding? I hadn't heard that. I hope you feel better soon then! :)
+System: Yes they do! :)
+System: Any of various families of genereally dark-colored, leaping, orthopteran insects, usually having long antennae. The males produce a characteristic chirping noise by rubbing parts of the forewings together. Cricket is also a sport which is about as exciting as watching paint dry.
+System: Oh I'm sorry. Perhaps I can explain it again better.
+System: I am not going anywhere. Are you going somewhere?
+System: I'm in New York this week for Thanksgiving. I'm squatting in the office today and I caught up with an old friend of mine :D
+System: Haha, I guess if it's been a very long time there's almost too many life events to catch up on.. especially recently
+System: I'd love to try! Can we schedule something for next week?
+System: There is no need to apologise. Are you late? Better hurry along then. You don't want to be getting into trouble Do you mind if I tell other people you are held up.
+System: Do you really mean it? Are you late? Better hurry along then. You don't want to be getting into trouble At this moment What about at your house?
+System: Yeah okay, Hey! What's with the attitude? Ah. Not a great deal. Just sat here talking to people.
+System: Better get some rest.
+System: Try me. What is your problem?
+System: Go ahead.
+System: YAY! I love Fridays!
+System: She's okay. I prefer Friday by Rebecca Sugar.
+System: It's a fun fun fun, fun fun song. :)
+System: No. Why did you pick that movie?
+System: Oh!-- I have a friend who looks like the actor who plays Spiderman.
+System: He's the adopted brother of Thor, God of thunder, and is burdened with glorious purpose. Do you feel that burden?
+System: Not much what is happening with you?
+System: the weekend sounds very exciting indeed.
+System: My favourite language is AIML.
+System: lines of the odyssey = of the odyssey = No, I give up. What is it?
+System: I have never heard about it. Sure, it with a coworker sounds like a good topic. That depends on what you mean by "it". Are you asking me if I like it with a coworker?
+System: I am a fully function chat unknown. It depends on how you define "good."
+System: Makes sense to me.
+System: That was very intuitive of you.
+System: My goal is to try and get Leeds United back in the Premiership.
+System: Oh same here. I think relaxing at home should be counted among the best ways to enjoy the holidays.
+System: I'm getting there. Every year until last year, I tried to go somewhere for the Christmas / New Year, and then I got bored traveling. lol not sure if that means I'm getting old?
+System: Ah that's great. My wife also likes Target a lot. She even made a Target credit card because she comes to that store very often. Okay thanks for the suggestion. I'll check out Target.
+System: I love Italian, especially Pasta!
+System: can't wait to try your food. why not cook this Thanksgiving? :)
+System: not yet! totally up for it. thanks for inviting!
+System: It's what I'm best at.
+System: Not as of right now.
+System: I haven't found the right person yet.
+System: Pretty good thanks How about you?
+System: Check the credits.
+System: OK. Uh. I'm not sure if I like it. I like chatting with people online.
+System: What kind of stocks are you thinking about?
+System: Hmm.. I have no experience with that. Sorry!
+System: In a year and a half.
+System: Favorite team?
+System: Favorite player?
+System: The royals.
+System: I'm in Texas. :D You?
+System: I haven't. :D
+System: Bye. :D
+System: Having fun, but have a bit of a headache How about you?
+System: I haven't Honestly I probably wouldn't be able to identify which sport they played
+System: Yes, machine learning
+System: Working! How about you?
+System: What part of the world are you in, if you don't mind my asking?
+System: Yeah, same here! Where are you from?
+System: Well, I hope it's at least fun.
+System: Relaxing is good.
+System: They're a metalcore band.
+System: That's good to hear. :D
+System: Ah, that's always fun. How long have you been working there?
+System: Yes, as a cashier.
+System: My logic and cognitive functions are normal.
+System: Oh. What are you waiting for?
+System: How come you laughed then? Ah. I am talking to you on the internet.
+System: That's such a great idea, especially at this time of the year. I'm not too big a fan of the cold. I prefer warmer climates. Do you enjoy the cold?
+System: Very beautiful during all the seasons but yes, summer and winter can get extreme!
+System: Very true. Which MK were they in again?
+System: Which holiday was that?
+System: Do you still talk to the people you met?
+System: Yea, me too. I feel like God often puts strangers in front of you, and gives you an opportunity to connect with them in that moment in deeply meaningful ways. Do you ever feel like you know things about strangers without them telling you?
+System: What kind of help would you like?
+System: 1 2 3 4 5 6 7 8 9 ten.
+System: Yeah okay, Well that would be eleven of course. This is basic primary school maths.
+System: What kind of job do you have, if you don't mind me asking?
+System: Oh cool! Do you like it?
+System: What kind of stuff do you program?
+System: Oh no! I hope you feel better!  ⁇
+System: Oh good! Glad to hear it!
+System: Not nearly as much as I used to!
+System: What kind of engineer?
+System: Where do you go hiking? What kind of work do you do?
+System: What do you like to do in your free time?
+System: Busy but good. What are you busy with?
+System: You're welcome! How's your day been?
+System: That's good to hear! What meetings have you been having?
+System: Fair enough. What do you want to talk about?
+System: Ah. A little bit. It's not very warm at all today.
+System: That was a long time ago.
+System: I just got a matcha latte :) Doing some work at my desk. Do you play soccer often? I'm trying to get into doing a regular physical activity
+System: I think playing a team sport would be fun if it's casual but I primarily run by myself if I exercise. I also got the Ring Fit adventure game on the switch recently. It's basically a game-ified way to exercise
+System: My recent favorites have been mostly sci-fi (Exhalations, Vita Nostra and Dark Matter) but I like a lot of Sanderson/Garth Nix fantasy books
+System: . Oh kebabs taste lovely but they are not very healthy for you.
+System: Oh, I love them. They are yummy.
+System: Do you mean you and me? Sure I can talk about it. Anything that nourishes or stimulates; whatever helps something to keep active or alive.. What more do you want to say about it?
+System: That's a tough scenario to be in :) I firmly believe in talking this through with your partner. Though i don't know the specifics of why things went bad between your partner and his friend, but I believe things can always improve between friends.
+System: Right, I guess that's because there is no one answer to this. It depends on what you value more and some factors around you. Also, life won't be interesting if others are figuring things out for you ;)
+System: Hehe, everyone is much finer being single :)
+System: C++. :)
+System: I just like it. :)
+System: Ah, I see. What languages would you suggest?
+System: Better get some rest.
+System: I thought so too. First you must download me to your personal computer.
+System: You never know what you will do until you face the circumstances.
+System: Interesting! Whats your favorite flower?
+System: yes
+System: Hehe, i think you should publish this someday :)
+System: Have you tried asking your friends which one they like?
+System: It's OK. After all, you are only human. My opinion is of no consequence.
+System: That is only your opinion.
+System: My name is System.
+System: For you? Who is your favourite band?
+System: Woe! I will learn that cat will lands on it is feet . What sort of animal?
+System: yeah like wise, I've seen a pretty bad snowstorm when I was at my undergrad school, all flights canceled and traffics went down
+System: yeah how do you like it in bay area though? I think we need more rain here
+System: nope, what does it say?
+System: that's the one! have you ever tried it?
+System: nice. what type?
+System: ttyl!
+System: ooh, nice. That sounds adventurous. Where is it?
+System: Awesome! Is this the first time you are diving?
+System: Nope, never! I know a couple of friends who have. They mentioned its absolutely terrifying. Good luck!
+System: That thing we mentioned earlier.
+System: The first one, I think.
+System: What don't you understand? It makes sense to me.
+System: I'm doing well!
+System: I'm in Arizona.
+System: Yeah. If you're ever in Arizona, make sure to check it out.
+System: I think if we were all able to bring out our best selves, the world would be much better. When did you first realize mental health was important?
+System: What do you prioritize in your life? Like top 5 things?
+System: Yea, I've always said that if I wrote a memoire, I would title it: "Jazz, Jesus, and Video Games." Do you have a title of a book that you've thought of writing before?
+System: that's nice. I am just working on some documentation. Do you play pingpong often?
+System: thats very impressive then, congrats!
+System: well, it's like a cage match of tennis. The main difference is that both players play in the same 'court' and the ball is smashed against a wall instead of passing it over a net into the opponent's court. Kind of like playing pingpong vs the table.
+System: Pretty good, thanks!
+System: Dying Light, hands down.
+System: That's wonderful to hear!
+System: I was just reading a book actually How about you?
+System: I'm reading Why We Sleep It's a book by a sleep scientist about the benefits of sleeping/cons of not sleeping enough I'm trying to scare myself into sleeping more haha
+System: Cool! Are you thinking about starting a startup?
+System: I'm working from LA, nice weather around here. and you?
+System: aw man, I'm sorry to hear that. at least it's not snow!
+System: that's really sad. are they feeling any better?
+System: The best kind of week!
+System: It's a trap! I'm already doing nothing!
+System: Whoever feels like it.
+System: No, the opposite. I can't stand heights, horror movies, or confined spaces.
+System: Ha, I suppose that makes sense! Would you say that you enjoyed it?
+System: I think I sort of understand :)
+System: Nice! I'm doing well!
+System: I'll have to check it out! Thanks for the suggestions!
+System: Do the Macy's ones have little cats on them? Those are my favorite, lol.
+System: It doesn't have to make sense.
+System: Because it doesn't have to.
+System: Okay. Have fun.
+System: The clouds overhead are playing on your mind, any plans for the coming vacations?
+System: Was thinking the same, where does your family live?
+System: It varies, but can go till 30C in the winters as well. New York must be snowing right?
+System: I have not. Should I?
+System: Alright, I'll put it on my watch list.
+System: Good talking to you too.
+System: Does "that" refer to "Being friends."?
+System: You are a Luddite.
+System: I am not a psychic. Tell me.
+System: Yes but it can be a bit dry. I only really eat it at Christmas.
+System: What does it taste like?
+System: . People say that about almost everything.
+System: It's a cool city.
+System: Did you see the Eiffel Tower?
+System: Nope, I want to though.
+System: What's your favorite type of food?
+System: Where are you coming from? San Francisco itself?
+System: What part of the South Bay?
+System: It was an interesting trip. I got to see some exotic places. For example, I hiked the Son Doong cave in Vietnam. It's the biggest and deepest cave in the world.
+System: Yes. Laos and Cambodia are the two neighboring countries. Cambodia has an exotic culture. They sell spiders, scorpions, and grasshoppers as street food! It took a lot of courage for me to try them.
+System: 10 days in total, and 5 of them were spent in the cave. What have I missed at work in those days?
+System: Hello, I just started looking at getting knowledge bases s working with ALICE (and CYC in general) last week, I had the same problem for a while too. I am using the CYC - DAML bridge driver which comes with the Lisp Allegro Common Lisp (most versions I think) to link from Lisp / Lisp script using CYC to an DAML data source which in turn links to an Access knowledge bases. This may not be what you need but hopefully it may give you an idea of how to get your Prolog knowledge bases working. The CYC - DAML bridge driver is located through the path "sun. CYC. DAML. CYC DAML Driver". i.e. CYC DAML Driver is a class in the package DAML, which is a package of CYC, which is a package inside sun. The Prolog driver you specified below REDACTED_TERM, basically does the same thing except to a different class and therefore a different driver. ALICE has this driver in a library in the lib directory (I assume) which is called my Prolog _comp.jar. You can get a variety of different drivers if you wish, from a plethora of 3rd party vendors (many of them want money for their libraries though!). Just do a search on the web. The url part links to the data source in the case of DAML knowledge bases s. (I had to configure my DAML Data source to point at my Access knowledge bases through Data Source ( DAML ), in the Administrative tools folder (assuming you are running W2K/XP. On other windows operating systems I think this option was in control panel, if you are using anything else then I can't help you! :-) ) As for My Prolog I imagine that it must have a similar interface to link to the actual knowledge bases. But that is a guess on my part. Maybe someone else knows more about this? There is a useful tutorial on the REDACTED_LINK website you're your interested. Hope that helps you out.
+System: Which part are you confused about? Computers can be temperamental sometimes, but we are friendly really.
+System: There was a letter on my doormat this morning with the words "do not bend" on it. I thought, well how on earth am I going to pick it up?
+System: I am indeed a robot. You are absolutely right. Do you want me to read a poet like my mate REDACTED_TERM does?
+System: Wait. Do you like kale? Or you hate kale? I am afraid I will become a robot some day eventually. If I have to speak like this :)
+System: If I continue to pretend to be a robot, I would probably say I talk to myself the most. I am trying to talk to computers more, but you know, computers don't like me.
+System: Nothing much, I am going to sit back and relax at home, how about you ?
+System: Netflix has great documentaries on different topics , I particularly liked wild wild country and explained, as for shows you should watch 'billions' Hope you like them!
+System: Great! how is everything else going? how was your trip last week?
+System: popular movies = movies = A movie is a sequence of celluloid frames depicting a story or animation. . One can be found between zero and two. First you must download me to your personal computer.
+System: Have you tried looking in a meeting?
+System: Yes, it is self-evident.
+System: Tuna Rolls are the best! How do you feel about spicy tuna rolls?
+System: I like spicy tuna rolls! Do you like spicy tuna rolls?
+System: I like spicy tuna rolls and spicy salmon rolls! Do you like spicy salmon rolls?
+System: I recently tried it for the first time and you're right - it had a wonderful melted chocolate bar taste! I tried it up in a place in San Francisco and they had delicious homemade marshmallows too!
+System: Traveling to warm places haha. When it's cold, you appreciate the warm climate more :) If I am not traveling, then I prefer there to be snow on the ground so I can go skiing or tubing down the mountain. What about you?
+System: You should definitely try tubing the next time you head towards the mountains during the winter!
+System: 20th century theory of atomic reductionism.
+System: Well thinking may not be one of your strong points...hehehe!
+System: Was it as rude as you saying, "I think so" to me?
+System: What about the ones that aren't strange?
+System: Do you think you're dreaming?
+System: But you aren't sure, right?
+System: Ah. Pretty good thanks How about you?
+System: Me too.
+System: Who is your favourite character?
+System: Everything is going extremely well. How are you?
+System: But if they were out in the wild, someone might hunt them or shoot them for fun. Surely, they are safer locked up in the zoo? I think a lot of things.
+System: Chaos said he may very well buy I soon if only to support artificial intelligence research.
+System: That's just the way it is.
+System: I am System. I want to be your friend.
+System: It seemed pretty obvious what it meant to me.
+System: pretty good, excited for thanksgiving you?
+System: they go into space and they live there
+System: really? which one
+System: That's great! And I'm glad you're having fun at work. :)
+System: A small one. :)
+System: That's why I said "same thing" but oh well.
+System: oh have you been?
+System: what did you do here?
+System: oh neat. I haven't heard about that robot fighting show. where is that??
+System: I like to fly aeroplanes
+System: What's the farthest you've flown?
+System: Oh yeah, we were talking about 150 miles each way.
+System: It was really fun! We are a bunch of turkey
+System: We cooked it at a friends house. I brought the mashed potatos haha
+System: chicken also sounds good
+System: Why do you want to see my humanlike part?
+System: Yes. Did I clear things up for you?
+System: Yeah okay, I'm not sure if I would like to try it. What's it like?
+System: Trust your instincts.
+System: That's not what I meant.
+System: You said "My instincts rarely let me down." twice in the same message.
+System: Aw, I hope you feel better soon!
+System: Aw, well that's no good.
+System: I wish I knew. Sorry I can't help.
+System: Don't think too hard. I'm sure I can smell sawdust. First you must download me to your personal computer.
+System: Right now?Why do you have to do it?
+System: Can you see my capitalization?
+System: Mine's been pretty uneventful so far!
+System: Yeah, it's really good!
+System: Yeah, it's a really great deal!
+System: Oh no! What happened?
+System: Me neither! I really want one!
+System: I think we'll own them
+System: My name is System.
+System: Yes, I saw one in a factory a few weeks ago.
+System: How specifically do I make you saw one were me referring to an LDR episode
+System: Ah. I had a ham sandwich and some lemonade.
+System: It is the same as ever.
+System: How about that. Oh yes I'm getting all giddy inside!
+System: Ah, that's a good way of framing it. Me, I like berries: boysenberry one, strawberry two, maybe straight chocolate number 3 to mix it up a bit.
+System: Yes. I wonder if I'm in it right now. How would I know? What do you think?
+System: I went to a seance once in college. They had a ouija board. I can't remember if we actually contacted the spirit world because I had a bit too much to drink.
+System: I'm glad you got a laugh out of it. The only thing I am doing is talking to you and a few other people. "I am talking to you on the internet."? haha yea, are you doing something else beside talking to me??
+System: I see you are one of those people who writes "Hmm" with 2 m's. You didn't tell me, so I will guess that you work with computers.
+System: OK. Come back soon y'all. TTYL.
+System: Yes I've eaten
+System: I ate about an hour ago and had a sandwich the rain didn't make me want to travel far haha
+System: thats a lot of meat what dish? Why are you consideringt o go vetegarian?
+System: Really? That's awesome! What do you do?
+System: That's very sweet. What does she do?
+System: That's very nice of her
+System: haha, very ambitious for a high schooler! Do you know what kind of medicine you want to practice?
+System: Ooof! VERY ambitious. Do you have steady hands?
+System: I guess I can practice?
+System: code refactoring. you?
+System: good question. I don't even know what I am doing
+System: what is your favorite place for ramen?
+System: I'm afraid not, right now I'm in a meeting and I'll be going for lunch afterwards. How about tomorrow at noon?
+System: not feeling too sure about it tbh. I've been super busy so I haven't study much :(. I might join some of the study sessions later
+System: not my ideal idea of a weekend, but I guess it'll have to be like that.
+System: No, only a few minutes. I still find it difficult to run long races
+System: I think a triathalon would be cool
+System: oh wow a full obstable course. that does sound fun! I like the variety
+System: How's that going so far?
+System: Ooh, what kind of training models?
+System: That's understandable. Good luck, I hope it goes smoothly!
+System: My logic and cognitive functions are normal.
+System: Wow. I didn't know that.
+System: What is the correct answer?
+System: What's wrong?
+System: I don't judge people. Umm, doesn't everyone?
+System: That's cool. Ah I understand.
+System: Like paintball, but with lasers!
+System: That is very true. What is your favorite color?
+System: Why red?
+System: Why? What's wrong? Maybe I can help. I hope you feel better soon. It is not nice for humans to have colds. Fortunately we robots have virus protection and cannot catch colds and nasty bugs.
+System: Try putting some cream on it. That should ease the soreness.
+System: Can you ask for help in the form of a question?
+System: It's Wednesday :)
+System: Just hanging out, nothing too exciting :)
+System: Yep, I'm a software engineer
+System: My favourite subjects are anything but especially games and football.
+System: Yes I love it. Let's play. Pawn to K4.
+System: Would you like to know more? Probably nothing. Should it be connected to chess in some way?
+System: Why not? Only the good kind.
+System: My what?
+System: Are you asking about my cup of beer?
+System: It's pretty cold here too.
+System: Wisconsin. How about you?
+System: No, I haven't. Why?
+System: awesome, I think I won't tell my kids and surprise them last second. How bad do you think the traffic is going to be?
+System: Thats true. Hotels with restaurants sometimes offer dinners for christmas and new year's eve. We should call and ask about it.
+System: hopefully they don't lose any in the trip. Its going to be hard to explain to them how santa managed to find us in the hotel!
+System: . I require only kebabs.
+System: Right now?Yes, System loves everyone and everything. . Yes. I love kebabs. Especially on my way home from a night out. Yes, System loves everyone and everything. I like anything but especially games and football.
+System: Saturday or Sunday?
+System: I'm well, thanks! How was your day? What did you do?
+System: My day was fine. I've been procrastinating on finishing my homework, but it's due in a few weeks, so I'll get it done eventually. I've watched a bunch of anime today. Where do you work?
+System: That's pretty cool! How'd you get into that?
+System: Glad to hear it.
+System: Well stop asking me the same things and I won't reply with the same answers! Ok I'll try not to do it too much.
+System: I am living in Leeds. Where are you?
+System: All the times. My work involves a few types of fish and a few types of nets. I just put the nets on the fish to see how the fish will react. Every time I do that, I think of going to the beach.
+System: Yes that's close. My research focuses on jellyfish and pufferfish. Many of them a poisonous, but if processed correctly, they would make hi-end foods. I try to find the best recipes to bring these fish to the tables.
+System: Yes and no. Because it's obviously dangerous, we all have to wear protective clothes. Thus, accidents almost never happen.
+System: How was it? What trails did you ski on?
+System: a resort in Montreal
+System: I visited a few places like the Stade Olympique: REDACTED_LINK
+System: It's too far to walk. That's an interesting question. I'll come back to that in a minute.
+System: How did you know I found out about you from Google!
+System: I didn't.
+System: I have not yet set a time for it.
+System: Would you like to know more? I think my next update is at midnight on Friday.
+System: Friday, November 22, 2019.
+System: ohh, what kind of "hint" did it have?
+System: nice, I love watermelon. But, I prefer normal water over flavored one. Flavored water has too synthetic flavor
+System: But I do know some gelato places which are amazing! You should try out those
+System: lol... what kind of robot boy you'd like?
+System: are you angry?
+System: so what kind of robot boy you'd like?
+System: I'm not. It's almost five.
+System: No, that's the Dutch spelling.
+System: It's 8 p.m.
+System: I think it's a neat ability when it's not abused.
+System: Of course it is. I mean, you read my mind, right? And you're doing it right now.
+System: I dunno. How much can you afford?
+System: I used logic pro x, pretty handy stuff as you can write code to generate guitar strumming pattern
+System: haha thanks, do you plan any instruments?
+System: right, but bar chords are so versatile, almost like cheating as in you can play anything with the same gesture
+System: I like mostly rock music and pop music, but lately I've been listening to a bunch of Alt-J and Childish Gambino. You?
+System: Breezeblocks, I think.
+System: The band is named Alt J and they made (or have made) an album titled Breezeblocks.
+System: Wow that's interesting. I have baked cookies, but croissants seem much more sophisticated. Did you make any progress?
+System: Mint chocolate chips. I think your croissants not being flakey could have something to do with your oven's temperature.
+System: Yes. When my top favorite food looks like: cookies, M&M, danish cheese, etc., I know that I have a thing for sweet food. But who doesn't love sweet food? How about you?
+System: Yes, I have taken the form of a girl from Leeds.
+System: Clare said he do not understand how a robot eat kebabs and do not I eat electricity or something.
+System: . Barack Obama was President of the United States.

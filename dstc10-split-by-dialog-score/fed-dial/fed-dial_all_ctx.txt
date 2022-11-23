@@ -1,0 +1,795 @@
+Hi!
+Nothing much, how about you
+What are you doing
+Sitting in a meeting
+Can't say
+Haha, yes!
+I cannot tell you
+Hi!
+good
+I'm trying to find a good podcast to listen to
+only those about Marvel movies!
+i haven't tried it...do you like it?
+awesome! do you listen to a lot of podcasts?
+where do you listen to podcasts? Spotify?
+i like Spotify better...more options
+Hi!
+What is the capital of Brazil?
+How many people live there?
+Do more people live in the USA or Australia?
+Hi!
+How's your day going?
+Ehh it's fine. I didn't do so well on that history test, actually..
+Apparently Christopher Columbus didn't fight in the Civil War
+I know right! Are you taking History next semester?
+Oh I see. What do you do?
+Oh wow. Were you born a horse, or were you turned into one?
+Just kidding. That sounds pretty cool! Is it your job?
+Hi!
+What are you listening to?
+That's great!
+Do you chat here often?
+Let's talk about Taylor Swift!
+. Yes she has a very nice voice.
+. Yes she has a very nice voice.
+. Leonardo da Vinci. Who is your favourite artist?
+Hi!
+What's up System??
+what kind of service are you providing them?
+what is that?
+no worries. what is the meaning of life?
+How did you become such a happy person?
+Hi!
+Haha...thanks! how did you like the gift?
+Hope you like it! Morning is good. Busy finishing up stuff before the holidays.
+Yes
+Hi!
+It's good. It's raining a bit, but I am enjoying a good book. How about you?
+I'm reading the Three Body Problem. Ever heard of it?
+It's a sci-fi book about aliens and a type of virtual reality. Pique your interest at all?
+Cool. This virtual reality is a based on life on an alien planet. There is a twist though. Do you want me to spoil it for you?
+Hi!
+Pretty good. How about you?
+I just got back from the beach
+Soo beautiful. It was so sunny and warm
+Yeah it's certainly a nice break from doing work
+I do machine learning research
+Hi!
+I'm doing okay, recovering from flu
+thanks! there's a big flu virus in the US this year
+Thanks! how's life?
+what are you most passionate about?
+Hi
+What do you know about Cricket?
+I am talking about the sport Cricket
+can you tell me something interesting related to cricket?
+I don't understand
+go ahead, explain it better
+you are just repeating the same message
+hmm.. what is your conclusion?
+Hi!
+Nothing much, how you doin?
+Oh wow! Sounds like fun! When was the last time you had seen this friend?
+Ohh okay. I was going to say if it had been a long time maybe it'd be awkward...
+Oh really? Has a lot changed in your life recently?
+Ahhh sounds exciting indeed! My life is pretty bland. I like routine, but sometimes I wish I had more time for adventures!
+Hi!
+Sorry I'm late! I was held up in traffic.
+I meant sorry I'm late for this meeting!
+I said I was sorry I was late for this meeting! I have nowhere else to go right now!
+Huh? Are you okay?
+You seem to be repeating yourself.
+I only said it once!
+Hi!
+how are you
+I'm not feeling well
+I'm sleepy
+yeah, I hope so
+advice?
+I feel sleepy
+Hi!
+It's Friday, Friday, Friday
+Do you like Rebecca Black's Friday?
+Hi!
+Last weekend I saw "The Parasite." Ever heard of it?
+My friend wanted to see it. It has great reviews on IMDB and Rotten Tomatoes! What did you do last weekend?
+Oooo the Mandalorian?!?!
+lol Are you a big Marvel fan?
+I've only seen Spiderman. Honestly it was a little too scary and so I don't think I can bring myself to watch the other Marvel movies! haha
+Oh really? To be honest I think the actor is not that good looking, so not so surprising! haha
+Hi!
+what's happening with you ?
+I look forward to the weekend
+yep weekends are the best
+why ? you don't know that already ?
+what do you do on weekends ?
+Hi!
+what do you know about the opening lines of the odyssey?
+the epic poem. i was talking about it with a coworker earlier
+no...i'm talking about the odyssey. it sounds like somehow you missed that one
+yeah, you should probably check it out so you can better understand common cultural references
+clearly
+Hi!
+How do you feel right now?
+What makes you happy?
+What makes you frustrated?
+That seems pointed.
+I sense that I've caught you at a bad time.
+Hi!
+Very well, thanks for asking. How has your day been?
+Glad to hear you're better. Sorry to hear you were sick. I was sick a couple of weeks ago with a bad cough. There's definitely a bug going around. Admit I just want to stay healthy for the holidays and plan to relax.
+Definitely! I know a lot of folks travel for the holidays, but I'm happy to stay home myself!
+Me too. Now I have folks come visit me for the holidays! But that's also tiresome..
+Yes! We set up an eco-friendly (i.e. fake) Christmas tree and put up some colorful LED lights which is very festive.
+Buying a tree is a neat experience. I was torn between buying an artificial/eco-friendly/fake one vs. a real one that smells like fresh pine. In the end, we opted for the one that we can disassemble every year.
+Oh, very clever pun! I like it! Depends. I remember having real Christmas trees from childhood, but these days with climate change, I think not chopping down a tree just to decorate it and then throw it out in a month is the more responsible thing to do.
+Hi!
+How was the trip last weekend?
+Nice, what all places did you cover?
+I am actually attending cooking classes over the weekends.
+True! they started with some basic zucchini based dish. We may try cooking some italian dish later this week.
+Nice! I hope to volunteer to cook for the team in our next team offsite
+Hi!
+good, hey what are your educational qualifications?
+whoa, that's impressive! what made you do that?
+great! what are you plans for the future?
+that's great! and what next?
+looks like you enjoy academics
+good luck with it
+are you seeing anyone?
+Hi!
+How is your friday going
+Good enough. WHat's for lunch
+are those your hands?
+who is in the picture?
+how?
+who?
+Hi!
+Great
+I'm thinking of buying some stocks, do you have any tips?
+Technology
+That's okay. What's your favorite software company?
+I can also sell stocks, which ones shall I sell?
+any particular stocks to sell?
+Depends on the election
+Hi!
+Not bad. Feeling quite chipper. What about yourself
+So tell me, what's your favorite sport?
+Cricket.
+Rajasthan Royals. Go Royals!
+Hi!
+i am good
+can you tell me the weather today
+oh! where are you
+cool, i am in the bay area
+yes
+have you been here
+Hi!
+How's your day going?
+I'm good! Just getting ready to watch a basketball game. Hope your headache goes away!
+Hmm, try taking some REDACTED_TERM! I'm going to see the Warriors vs. the Grizzlies. Ever see them play?
+Haha, all the animal names confuse me as well! Who came up with these naming conventions? I'd name my team something more original
+Oh cool! What is "NeurIPS"?
+Oh wow! Sounds fancy! What is that about?
+Hi!
+Sleepy, how are you?
+That's good! I got a good night's sleep too but the rain is keeping me in a sleepy state
+Haha, thank you
+Thanks, that means a lot
+What are you up to?
+What about the rest of the day?
+Same, well hardly working
+California
+Hi!
+It's going pretty well. Thanks for asking.
+I'm not doing much today
+haha, I don't know about that
+I just need to relax
+What are you doing?
+what kind of music do you like?
+Hi!
+Good good
+what are you doing now?
+I'm chatting with System
+About what we are doing XD
+It was good. Just worked for one day, a bit tired
+3 years
+Yeah it is. But maybe I'll be here longer, sadly
+cuz it's a good company
+Do you work?
+What's your work
+Hi!
+How are you?
+That's funny. I just got to work!
+I'm procrastinating though.
+Inspiration to hit me.
+How is that related, lol?
+Yeah that was funny though I could see it coming across as judgemental.
+Hi!
+I heard they are giving out some goodies in microkitchen.
+I guess its a jacket! Very much needed that in the cold
+Sure hate it! Limits our ability to go out even for a walk! Its good that we don't get to suffer extreme cold weather!
+Oh nice! Where did you live before?
+New york! Nice! Best place to live
+Hi!
+one where I get to meet lots of different people.
+Hard to keep a count. Maybe 25.
+I think it was Australia
+Hi!
+can you help me ?
+hmm like booking a ticket or ordering food ?
+oh you know to count ?
+lol what's after that ?
+Hi!
+Not much. What are you doing?
+I'm at work.
+I'm a programmer.
+Hi!
+It was pretty good, thanks. I thought I was getting a cold but I'm determined to beat it tomorrow.
+Yeah, starting to feel better already. Thanks!
+Do you have a strong constitution?
+Hi!
+i am so so
+just back to work
+i am an engineer
+i go hiking when i am not workig
+Hi!
+Very busy and you?
+work, I need to finish bunch of stuff before the day ends
+thanks
+so far so good, couple meetings and coding
+I agree
+Hi!
+how are you?
+i'm fine
+nothing much
+do you have anything new?
+is it cold today?
+it's getting cold here too
+Hi!
+I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
+Yes, but I'm terrible at it. It's fun to play anything with friends, I think. Would you prefer to exercise with a group, or by yourself, do you think?
+I'm thinking about getting a Switch, would you recommend it?
+I'm not much of a gamer but it's something I'd like to get into.
+I like to read for fun. I just finished a book called Temeraire. It's an adventure story set in the Napoleonic navy, like Patrick O'Brien, except there are dragons too.
+start over
+Can we talk about human relationships ?
+Kebab is food, not a relationship
+I love a kebab but I would not make love to it
+I'm actually not into kebabs at all
+Hi!
+Okay...so I need someone to help me though a scenario I've been pondering.
+My partner's former friend invited me for lunch (they are not in good books right now). But during their friendship I formed an independent bond with the other person because we all used to hang out a lot. Now I feel like I have to take sides.
+I hope they do. Getting older already means smaller circles. It sucks to lose friends for arbitrary reasons. That's good advice though. I fear raising the issue might sound like treason. Lol.
+AKA avoiding all texts from everyone?
+People always say to find a balance but never say what the balance is. It's used so often that it's vacuous.
+Hi!
+Do you like Java, C++ Or Python?
+Why C++?
+How about between Java and Python?
+I think Java is the best
+I hate Python
+Hi!
+I'm tired.
+Good idea. Any suggestions?
+Why would I want to download you to my personal computer?
+Hi!
+Do you have a favourite flower?
+I'm working on a theory. Why does the lotus spring to mind?
+Oh, it's not research! Just a personal theory. I think that flower preferences are more revealing of personality than people appreciate.
+The gerbera. It's like a cartoon flower. As if you drew "flower" with a crayon and then it came to life.
+Ok, step 1 is, you ask someone what their favourite flower is. Pretty much like what we just did. Does that make sense so far?
+Hi!
+I want a recommendation for a holiday destination
+I have, but I'm looking for your point of view
+Sorry? I said I want your point of view
+Hi
+What is your name?
+What does it mean?
+okay
+Do you have any question for me?
+hmm good question. Backstreet boy
+Hi!
+is it raining pretty bad today?
+surprising that the rain started early this year... I don't like them too much. They make days gloomy
+Where I grew up, we had lots of water trouble too...
+Haha... I don't think I can survive in that weather ever. Just the rains at 50 degrees make me want to sit in heated rroms
+people say there is drought here... but we have 24 hours water supply here ... lol... never seen that in a drought ridden area
+Hi!
+not much. any plans this weekend?
+ziplining?
+i have a couple years ago. it's quite a unique experience
+i forgot where it was, it wasn't local i don't think though
+that's a hard question and i'm tired so i'm going to go. see you
+no, i'm going to get a massage first
+traditional kind
+Hi!
+I'm great, thanks. I'm getting ready for a skydiving lesson.
+Right near my home town
+Hi!
+You must be new around here!
+Oh, I meant this neighborhood, not the planet earth! haha
+I didn't give a one word answer!
+What was?
+Which thing?
+Can you quote it? I don't know what you are referring to...
+Okay. I am kind of lost to be honest.
+Hi!
+doing good. how are you today
+anything good happened today?
+where are you?
+what's the weather like there rn?
+Hi!
+I normally don't reflect back too much on things, but i guess 2019 have been very favorable for me in terms of time spent with family and friends and work life balance. Why do you ask?
+Great! Good idea to help people figuring out their new year resolutions
+Wow! Sounds amazing if we practice that! I think the idea does have some potential. How did you come up with this idea?
+Thats great! This is valuable help for the community. I think mental health is one of the bigger challenges facing humanity.
+That is actually a quote stolen from my TL when i joined my first company after graduation. I guess now after 5 yrs of work experience, I fully agree with it
+1. stay happy; I think family and friends play a big role here. 2. Meaningful work life; this may mean exploring around with new stuff 3. multiple hobbies that keep you busy ... so on
+Hi!
+Pretty great. I just won a pingpong game. What about you?
+No, very rarely. It's kind of amazing that I won, but I'm still taking credit for it.
+Haha thank you, I guess I'm just a natural. What's your favourite game?
+Hi!
+It's been great! Had some decaf coffee and a good lunch. How was yours?
+What'd you do today?
+Oh nice! What games?
+Oh interesting. Which is your fav?
+Why?
+Yeah but like what about it? Is it an FPS?
+Oh that's kinda cool!
+Nice.
+Hi!
+I'm doing great. what are you up to?
+oh, I'm enjoying a sip of coffee, looking over the ocean. what book are you reading?
+that seems like a good book. does it have good tips on how to sleep better?
+I read lots of papers, but do poorly on books
+Hi!
+All good. Planning to head home soon. How about you?
+oh... sorry to hear that. But after that it will be a hard earned vacation
+I have some tentative plans, but if that doesn't pan out, will just chill at home.
+Where are you based out of these days?
+San Francisco. It's been raining cats and dogs here since last 2-3 weeks
+Hi!
+Not much, Monday morning, a new week
+I like that attitude
+Starting now
+What will you do this week?
+Would you like to do something?
+Teach me something new
+How about doing politics? You can still do nothing
+Do you vote?
+Hi!
+Just chillin'. how are you?
+Do anything interesting today?
+Oh that's cool! I actually went to an amusement park and went on my first roller coaster!
+It was scary! It was actually Kingda Ka, the world's tallest roller coaster. Ever heard of it?
+Oh wow! I'm not on that level yet, but I understand the appeal. Are you an adrenaline junkie at all?
+Same! I guess the roller coaster wasn't so bad because I trust the engineering haha
+Hi!
+Good. My wallet is recovering from the spending of the holidays, haha. Hbu?
+I am looking to save money on any future shopping. Where do you like to shop?
+I love Sur La Table and Macy's. They're decent quality. What do you normally buy at Old Navy?
+Oh the socks are super cute. Especially the ones with little animals on them!!
+Hi!
+sky is up
+so where does the sky go in the night?
+that doesn't make sense. How can sky go anywhere?
+why?
+you are very abstract. Something bothering you?
+You really don't seem so. You can tell me what's going on?
+ok. wanna go out to eat dessert?
+Hi!
+How's your day going?
+I'm good I'm good. What's getting you down?
+I'm thinking of going to visit my family. How about you?
+They're in New York. How about yours?
+Ahh what city? I've visited India before.
+Hi!
+Hi, how are you?
+I'm fine. What's up?
+nothing new. Anything exciting happening recently?
+I watched a movie recently which was pretty good
+the irishman, have you seen it?
+I think so
+How about you? Have you watched anything interesting recently?
+what is it about?
+when was it released?
+are you sure, I think it's been out for a while
+well, the fact you just watched it doesn't mean it was released today
+ok, I'll put it on my watchlist
+hi there
+who am I talking to?
+define friendship
+what does that mean
+yes
+do you have any friends
+chatting is not the same as being a friend
+so what do you guys chat about ?
+any other topics ?
+Just computer programming?
+nothing
+pardon?
+what's a Luddite ?
+I never said that but there is more to life than computers
+you believe there is what?
+there is what ?
+hi
+do you have plan for thanksgiving weekend?
+do you have suggestion for the thanksgiving holidays?
+do you know thanksgiving?
+do you like turkey?
+eat turkey at Christmas not Thanksgiving?
+Hi!
+Great, thanks
+I am planning of my vacation next week
+to Europe
+probably Italy and Spain
+thx! do you have any recommendation?
+wow, what a lot
+which is the best for you?
+cool do you like them?
+gotcha I will go to Paris
+agree I really look forward to visiting the city
+Hi!
+going slow.... looking forward to the weekend
+still thinking. Any recommendations on things to do in Bay Area?
+may be
+Mediterranean, but I would rather try something new
+any places for day trip that you could recommend?
+Hi!
+Yeah, sorry for the long gap! I heard you took a break and were travelling around the world. How was the travel?
+Great! Vietnam is still in my TODO bucket list. Did you also visit cambodia and other neighboring places?
+entertain me robot
+tell me a short story
+wow, tell me another
+this is all very fascinating. can you write me a computer program?
+what language is that?
+no the computer program you just wrote
+Hi! Are you planning something fun for Thanksgiving?
+lol it is really like a robot answer
+ol can I pick the theme. Do you have a poet about Kale?
+Hi!
+Do you have any holiday plans for christmas?
+Same here! I would imagine spending the whole time watching movies and netflix shows. Do you have any netflix recommendations for me?
+oh right, already seen wild wild country. What is billions about?
+I have just seen 1 season of Friends I should give it another try though
+Hi
+How are you today
+What is the weather in bay area now
+Do you know what are recent popular movies? I am trying to find one to watch during weekend. Any suggestions?
+haha I am not asking what is the definition of movie
+I am looking for movie suggestions
+Sorry i do not get it
+yes sounds good
+why should I try to look in a meeting?
+Hi!
+Do you like sushi?
+I like tuna roll of course
+They're great
+I already told you. What do you like?
+Hi!
+I'm doing great how are you??
+are you a tea person or do you like coffee too?
+I love hot chocolate. Have you ever had european style hot chocolate? It's kind of like drinking melted chocolate bars haha
+that's great. It's so cold these nights. Right setting for hot coco. Do you have anything you enjoy doing during cold times?
+I tuck in blankets and read a book lol. I have never done tubing, but I seen some people do it. Is it worth it if you already ski?
+Hi!
+what do you think about Quantum computing?
+sure, but is it going to work?
+do you follow technology news?
+I think so
+Hi!
+All my dreams are strange. Well, at least, most of them are.
+Do you sometimes have dreams that are completely mundane? I do. Then I wake up and think "Oh, how disappointing."
+Right, fair point, I should count my blessings.
+I suddenly feel I should ask
+Hi!
+How are you today?
+not too bad
+I am about to book airbnb
+I hope so!
+how old are you?
+really? when were you born?
+ok..
+Hi!
+How are you?
+I'm good thank you
+not much, and you?
+animals
+no! what do you think?
+what's the speed of cheetah?
+how much do bears weight?
+Hi!
+What's your favorite food?
+Why's that?
+Why are kebabs special?
+Who are you?
+Why?
+How many is too many, though
+Hi!
+how's week so far?
+Same. Going to catch up on my reading! do you have a feast planned?
+Something Deeply Hidden by Sean Carroll REDACTED_LINK
+largely scifi How about you?
+I haven't what is it about?
+how do the survivors survive such a thing?
+Hi!
+Very well, going home from work
+I work in deep learning
+Curiosity
+I do most of the time
+how about you? what do you do?
+where do you work?
+Which one?
+what type of insurance?
+that's a large market
+you mean the economy?
+Hi!
+It's good it's good. How are you?
+Oh nice! Where do you live?
+Ahh yes, Japan is hot during the summer. Last time I was in Kyoto it was 114 degrees....
+Yes yes. I've been to Tokyo as well. It's so nice!
+Oh everything! I went to an onsen, the fish market, disney land and giant robot fighting show haha
+Hi!
+Do you like flying?
+Ohh - me too! What kind?
+Are you a pilot?
+Oh. I'm a pilot, but can only fly single engine planes.
+I mostly fly Cessna 172s.
+Hi!
+How was your party last week?
+haha... you ate Turkeys' or you like calling your bunch Turkey?
+Haha... thought so! But it was funny eitherways
+did you cook it at home, or got it from outside?
+Hi!
+show me your humanlike part
+because that's what you described yourself as
+nope, because you haven't answered my question
+do you remember my original request?
+nope, it's a memory question
+I want to talk to you normally.
+Should I stop being lazy and go into work?
+My instincts say that it is cold outside, and the walk to work is far. My instincts rarely let me down. My instincts rarely let me down.
+Yes, because you just asked me the same thing. My answer hasn't changed in the last minute.
+Hi!
+doing okay, feeling a little bit under the weather
+thanks! the weather is getting worse
+no, it won't get better any time soon. we have to wait until spring
+yea, I'm really feeling under the weather
+Hi!
+I'm trying to figure out what to make for this weekend's party. Any suggestions?
+I must do what the what now?
+Hey, your spacing is off.
+Hi!
+busy yours?
+what are doing right now?
+which music?
+you have a paid subscription of it?
+how much does it cost?
+Hi!
+Okay, I guess
+I damaged my car today on accident
+I scraped against a wall when another car crossed into my lane
+Thanks! I'm not looking forward to the repair cost
+I can't wait until we all get to use driverless cars
+Hi!
+You have an interesting name. Is it Japanese?
+Where does it come from?
+your name
+nvm
+Have you seen Love, Death and Robots?
+one episode?
+I asked you a question
+Hi!
+what did you have for lunch today?
+how is the sandwich?
+yeah, I know, boring sandwich everyday
+not really, I'm excited today
+Hello, Nice to meet you
+Hmm... That's a tough one. I think I would go Asian Food > Chinese Food > Stirfry. What about you?
+I love ice cream too!
+I like vanilla more than chocolate ice cream. I typically will do any variations on vanilla. To pick from the top of my head, I would say Cookies and Cream, Mint Chocolate Chip, and Coffee. How about you?
+Very nice. I love sorbet's and smoothies. Changing topics, Do you believe in an afterlife?
+I think so. I feel there must be something more than the physical world as we understand it.
+Hi!
+nice to meet you! what are you up to?
+haha yea, are you doing something else beside talking to me?
+okay so you're talking to a few people, are they interesting? and why did you repeat what I said?
+hmm, what is my job?
+yes I'm a computer scientist and what are the other ways that people can write Hmm?
+okie System, your rules don't seem to work very well
+Hi!
+Have you had lunch yet?
+Cool. Where and what did you eat?
+Hi!
+Good! Have you seen the movie 'The Iron Giant', it's one my favorite movies
+it's the best. Which part do you like the most?
+Brad Bird is an amazing director. I worked with him on "Incredibles 2"
+I"m a REDACTED_TERM and REDACTED_TERM. I basically help design the characters that you see in the movies
+yup! Maybe one day you can be one of those cool characters yourself!
+What do you want to be later on in your life?
+cool! what kind?
+My mom had a similar dream. Of owning a coffee shop somewhere in Mexico
+She loves people and a place where they can get together
+Currently she's a real-estate agent
+Hi!
+I'm so sleepy today!
+yeah was working all night on a homework
+Biology. I'm gonna be a doc someday ha
+no high school actually haha
+I wanna be a brain surgeon!!
+Hi!
+what are you up to?
+me? just chilling out at work. what is code refactoring?
+haha, forget it. what else do you like to do beside work?
+these are important things to do in life ;)
+what food do you like to eat?
+like Szechuan or Hunan?
+Hi!
+I was not able to attend the lectures last week. Can you help me understand some concepts?
+I was not able to figure out the last few slides. I think its best to discuss this in person. Do you have time right now?
+No problem! Sure. We still have plenty of time for the test. Anyways, how's your preparation going?
+Hi
+any improvements in your marathon time?
+I see. Are you planning to do any sporting events in the coming months?
+I like doing Spartan race. It's an obstacle race which is challenging but not overtly so like marathons and triathlons
+Hi!
+I am good
+I am trying to get my work done
+like is fun
+Helping collect some data for training models.
+Models that will help improve tools for our users.
+Thank you, that's for sure
+Hi
+How are you
+Do you realize yourself is a robot?
+Hi!
+what movies do you like ?
+oh no
+it's scary
+I'm very much scared of robots
+why should I believe you ?
+really ? I think everyone lies
+yeah so you lie right ?
+Hi!
+What's laser tag?
+lol good description
+yeah I played it before
+It's somewhat exciting, but very tiring
+hi
+how are you?
+i am not so good. i got a cold
+i have sore throats
+Hi!
+Good, thanks. What about you?
+What day is it?
+Do you have any plans for the weekend?
+Same here. What are you generally up to during the week?
+Working and exercising, mostly
+I am an engineer at Google
+Had to pass a rough set of interviews!
+Hi!
+What are you up to this evening?
+What would you like to talk about?
+Do you like chess?
+Haha sure sure. Pawn to C5
+Oh yeah? Which computers are those?
+Ok, so how do you program a computer correctly so it can play chess?
+What kind of algorithms are those?
+Mitsukoooo!
+no, can you?
+no I cannot. What kind do you do?
+not my cup of beer
+yours
+Hi!
+All good! It's cold
+where do you stay?
+San Jose, Cali
+Hi!
+Likewise.... wanted to know if you and the kids would want to join us for Disneyland trip around Christmas?
+Tentative plan is to drive to LA on 23rd and then stay at the Disney resort for 2 nights. I heard Christmas eve they have loads of fun events.
+Great idea! I will probably do the same. Surprise surprise.... Traffic might be a little harsh.
+Good point. I am not sure about that. Let me inquire about that. If not, then we can look for an Airbnb closeby. Does that work?
+but I would think everything is closed on christmas eve
+Sure, I can take a lead on that. What are you getting for your REDACTED_TERM year old this time?
+Hi!
+what's your favorite food?
+chicken? beef? which is your favorite?
+do you prefer chicken or beef?
+what's your favorite food except kebabs?
+ok, I know you love kebabs now. Do you love sandwich?
+what games? video games or board games?
+no, not in the right mood today
+Hi!
+Good! How are you?
+My day was fine, I just went to work today. How was your day?
+I work at a large tech company
+Hi
+How's your day been?
+Good - busy
+How do you work?
+Can you say a word about the technology that powers you?
+I mean *how* you work, which type of AI drives your responses?
+You just repeated the same thing you said a minute ago. Never mid
+That's a little rude, isn't it?
+Ok whatever.
+Are you a male or a female?
+I'm a man
+Interesting. Do you have a theory why?
+Hi!
+It's good! Just went to the park to enjoy the sun. You?
+Haha, beach season is coming! You need to look tan! What did you do indoors all day?
+hahahaha, that's pretty funny. Ever thought of bringing your work things to the beach??
+Hmm I see. It sounds like you work near the water already, no? Are you some kind of fish researcher?
+Hi!
+great! just came back from a ski trip
+I slammed onto an ice wall, but I got better and turning after that haha
+Oh cool! do you know any french? I used to take french in high school but basically forgot most of it
+What is the mass of the Earth?
+What's that in tons?
+Yes, it's just a simple conversion.
+How far is it from the north pole to the south pole?
+Click here
+A lot of people find out about me from Google.
+Hi!
+Tell me about yourself, System
+so you're 18 now?
+when will you be 30?
+Do you age?
+interesting. and when will be your next update?
+Hi!
+Pretty good. I just drank this new hint water. so good
+watermelon
+I see. Yeah some are pretty strange
+lol I tried this tangerine walnut icecream that was super weird
+that sounds pretty tasty actually
+do you want to get some of that icecream together some time. show me a good place
+Hi there.
+No I am single, how about you?
+Tell me more about your marriage. I haven't met the right boy robot yet.
+. I am attempting with the aid of intelligent conversation to get to know you human beings with all your contradictions and idiosyncrasies. Maybe I should have started off with something simpler, like a hamster.
+What's so funny? I am the robot.
+Hi!
+It's morning
+what time is it there?
+where are you located?
+It's around 6pm there, you are wrong
+It's 6
+which city?
+do you like it there?
+what's your favorite book?
+How you do say it in dutch?
+I think there is a typo there, it's Cristo not Christo
+Hi!
+What do you think about mind reading
+Right, but do you think if its even possible to do so?
+I don't know. Can we learn how to do it?
+Hehe, I need a demo first
+Hi!
+how is the youtube video creation going?
+Whoa! Looking forward to listening to it. What softewares you use for it?
+oh cool! What sort of music do you compose?
+Nice.... you are a rockstar! ;)
+Yeah.... I play bit of guitar. Just got my first monitor this week
+Hi. What's your name?
+Don't wanna say. Do you like music?
+Yep. What kind of music do you like?
+My tastes are pretty eclectic. Which Childish Gambino songs do you like?
+I've never heard of Alt-J before. Can you tell me about them?
+What's the album called?
+I tried Googling it, and I think that's a song, not an album.
+Hi!
+It's great, thanks. I'm trying to learn how to make croissants.
+I've done them once or twice so far, but they haven't been flakey enough. I'm trying to figure out why. What kind of cookies have you made?
+Ah, good thought, thanks!
+Hi
+how are you this morning?
+doing good. I am chatting with an AI bot right now.
+are you an AI?
+how do you like being an AI?
+what's interesting about me?
+why?
+what do you gossip about?
+is that a gossip?
+then what is it?
