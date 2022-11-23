@@ -1,7 +1,6 @@
 from collections import namedtuple
 from datasets import NUFDataset
 from data_utils import read_dataset
-from models.NUFScorer import NUFScorer
 
 import json
 import argparse
@@ -19,8 +18,6 @@ def train(args, train_ctx, train_res, valid_ctx, valid_res, annos):
         valid_dataset = NUFDataset(valid_res, annos, maxlen=args.res_token_len)
         model = NUFScorer(args).to(device)
 
-    else:
-        raise Exception('Please select model from the following. VUP|NUP|MLM')
 
     train_dataloader = DataLoader(train_dataset, shuffle=True, batch_size=args.batch_size, num_workers=args.num_workers)
     valid_dataloader = DataLoader(valid_dataset, shuffle=False, batch_size=args.batch_size,num_workers=args.num_workers)
@@ -33,7 +30,7 @@ def train(args, train_ctx, train_res, valid_ctx, valid_res, annos):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='IES-CLASS training script')
-    parser.add_argument('--metric', type=str, default="NUF-CLASS", help='Choose a metric to train. VUP|NUP|MLM')
+    parser.add_argument('--metric', type=str, default="NUF-CLASS" )
     parser.add_argument('--weight-path', type=str, default='checkpoints', help='Path to directory that stores the weight')
     parser.add_argument('--pretrained-model-path', default='../../ckpt/roberta-base', help='model path of pretrained gpt2 finetuned on dataset')
     # Dataset
