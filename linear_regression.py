@@ -87,7 +87,7 @@ def linear_regr(model_scores_dict, human_score, quality):
 
 
 def get_single_quality_weight(record, metric_names):
-    for k in record.keys(): #拿到某个quality
+    for k in record.keys():
         record[k] = np.mean(np.array(record[k]), axis=0).tolist() 
         record[k] = [round(i, 2) for i in record[k]]
         metric_dict = {}
