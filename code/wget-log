@@ -1,0 +1,11 @@
+--2021-08-30 15:07:29--  https://drive.google.com/uc?id=1Kinwz0o473X_FVY6TmGAVRRGDXBo4CSO
+Resolving drive.google.com (drive.google.com)... 172.217.194.139, 172.217.194.113, 172.217.194.100, ...
+Connecting to drive.google.com (drive.google.com)|172.217.194.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘uc?id=1Kinwz0o473X_FVY6TmGAVRRGDXBo4CSO’
+
+uc?id=1Kinwz0o473X_FVY6TmGAVRRGDXBo4CSO                 [<=>                                                                                                               ]       0  --.-KB/s               uc?id=1Kinwz0o473X_FVY6TmGAVRRGDXBo4CSO                 [ <=>                                                                                                              ]   3.20K  --.-KB/s    in 0s      
+
+2021-08-30 15:07:29 (33.6 MB/s) - ‘uc?id=1Kinwz0o473X_FVY6TmGAVRRGDXBo4CSO’ saved [3278]
+
