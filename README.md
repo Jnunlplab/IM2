@@ -9,7 +9,7 @@ we provide the processed data,train/valid/test datasets,all processed dstc10 dat
 the checkpoint is provided，contains fne-tuned dialogpt, Roberts, and ab-ba,ab-bc for IM2,etc..
 
 # get score
-You can either use your own data or the data that we have processed, use all sub-metric to get the score, and then run the linear_regression.py to get the combined IM2 score.
+You can either use your own data or the data that we have processed, use all sub-metric to get the score, and then  get the combined IM2 score.
 
 
 
