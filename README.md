@@ -31,10 +31,10 @@ You could download it and unzip <br>
 You can either use your own data or the data that we have processed, use all sub-metric to get the score, and then  get the combined IM2 score.<br>
 use each model and loading its corresponding ckpt,get the sub-metric score <br>
 ```
-   NUF = w1 ∗ LSC + w2 ∗ V UP + w3 ∗ 5-NUF <br>
-   CR = w4 ∗ GRADE + w5 ∗ AB-AC +w6 ∗ AB-BA <br>
-   IES = w7 ∗ Dist-n +w8 ∗ D-MLM +w9 ∗ 5-IES <br>
-   IM2 = α1 ∗ NUF + α2 ∗ CR + α3 ∗ IES <br>
+   NUF = w1 ∗ LSC + w2 ∗ V UP + w3 ∗ 5-NUF 
+   CR = w4 ∗ GRADE + w5 ∗ AB-AC +w6 ∗ AB-BA 
+   IES = w7 ∗ Dist-n +w8 ∗ D-MLM +w9 ∗ 5-IES 
+   IM2 = α1 ∗ NUF + α2 ∗ CR + α3 ∗ IES 
 ```
   
 
