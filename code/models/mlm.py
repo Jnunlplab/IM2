@@ -9,7 +9,7 @@ from collections import namedtuple
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-class MLMScorer(pl.LightningModule):
+class MLM(pl.LightningModule):
 
     def __init__(self, hparams):
         super().__init__()
